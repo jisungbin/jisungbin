@@ -18,6 +18,6 @@
 
 ![깃허브](https://github-readme-stats.vercel.app/api?username=sungbin5304&show_icons=true)<br /> 
 [![AndroidUtils](https://github-readme-stats.vercel.app/api/pin/?username=sungbin5304&repo=AndroidUtils)](https://github.com/sungbin5304/AndroidUtils)
-[![KUtils](https://github-readme-stats.vercel.app/api/pin/?username=sungbin5304&repo=KUtils)](https://github.com/sungbin5304/KUtils)<br />
+[![KUtils](https://github-readme-stats.vercel.app/api/pin/?username=KakaoTalkBotOrganization&repo=KUtils)](https://github.com/KakaoTalkBotOrganization/KUtils)<br />
 [![GetLastReceivePictureFromKakaoTalk](https://github-readme-stats.vercel.app/api/pin/?username=sungbin5304&repo=GetLastReceivePictureFromKakaoTalk)](https://github.com/sungbin5304/GetLastReceivePictureFromKakaoTalk) 
 [![Programming-Study](https://github-readme-stats.vercel.app/api/pin/?username=sungbin5304&repo=Programming-Study)](https://github.com/sungbin5304/Programming-Study)
