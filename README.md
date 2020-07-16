@@ -8,7 +8,7 @@
 
 🤓 주로 쓰는 언어로는 ![코틀린](https://img.shields.io/badge/-Kotlin-0095d5?style=for-the-badge&logo=kotlin&logoColor=fff), ![자바](https://img.shields.io/badge/-Java-fc7b03?style=for-the-badge&logo=java&logoColor=fff), ![자바스크립트](https://img.shields.io/badge/-Javacript-e3e300?style=for-the-badge&logo=javascript&logoColor=fff) 가 있고, 이 언어들 말고 [다른 언어들](https://github.com/sungbin5304/Programming-Study#languages)도 배우고 있습니다. 
 
-🔥 최근에는 `Dependency Injection`중 하나인 `Hilt`에 관심이 들려, `Hilt` + `ViewModel` + `Fragment`를 연구하고 있습니다. (밑 레포에서 확인 가능)<br />
+🔥 최근에는 `Dependency Injection`중 하나인 `Hilt`에 관심이 들려, `Hilt` + `ViewModel` + `Fragment`를 연구하고 있습니다.<br />
 [![NewKakaoBot](https://github-readme-stats.vercel.app/api/pin/?username=sungbin5304&repo=NewKakaoBot)](https://github.com/sungbin5304/NewKakaoBot)
 
 
