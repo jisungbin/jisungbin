@@ -11,7 +11,7 @@
 ![TopLanguage](https://github-readme-stats.vercel.app/api/top-langs/?username=sungbin5304)
 
 🔥 최근에는 `Dependency Injection`중 하나인 `Hilt`에 관심이 들려, `Hilt` + `ViewModel` + `Fragment`를 연구하고 있습니다.<br />
-[![NewKakaoBot](https://github-readme-stats.vercel.app/api/pin/?username=sungbin5304&repo=NewKakaoBot)](https://github.com/sungbin5304/NewKakaoBot)
+[![NewKakaoBot](https://github-readme-stats.vercel.app/api/pin/?username=sungbin5304&repo=NewMessengerBot)](https://github.com/sungbin5304/NewMessengerBot)
 
 
 🔗 기타 SNS : [티스토리](https://sungbin.me/), [네이버 블로그](https://blog.naver.com/sungbin_dev), [유튜브](https://www.youtube.com/channel/UCSvfSbfnidDPN6_Pm3wFAzQ?view_as=subscriber), [텔레그램](https://t.me/sungbin_dev)
