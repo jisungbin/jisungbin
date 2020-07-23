@@ -4,7 +4,7 @@
 
 😄 안드로이드쪽으로 취직을 희망하고 있는, 2020년 기준 고3 학생!
 
-🥰 메인 분야는 ![안드로이드](https://img.shields.io/badge/-Android-42ff6b?style=for-the-badge&logo=android&logoColor=fff)이며, 최근 웹 개발에 관심이 들려 웹 개발쪽도 배우는 단계에 있습니다.
+🥰 메인 분야는 ![안드로이드](https://img.shields.io/badge/-Android-00c717?style=for-the-badge&logo=android&logoColor=fff)이며, 최근 웹 개발에 관심이 들려 웹 개발쪽도 배우는 단계에 있습니다.
 
 🤓 주로 쓰는 언어로는 ![코틀린](https://img.shields.io/badge/-Kotlin-0095d5?style=for-the-badge&logo=kotlin&logoColor=fff), ![자바](https://img.shields.io/badge/-Java-fc7b03?style=for-the-badge&logo=java&logoColor=fff), ![자바스크립트](https://img.shields.io/badge/-Javascript-f5c800?style=for-the-badge&logo=javascript&logoColor=fff) 가 있고, 이 언어들 말고 [다른 언어들](https://github.com/sungbin5304/Programming-Study#languages)도 배우고 있습니다. 
 
