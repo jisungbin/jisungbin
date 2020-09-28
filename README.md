@@ -42,7 +42,3 @@
 2. [네이버 블로그](https://blog.naver.com/sungbin_dev)
 3. [유튜브](https://www.youtube.com/channel/UCSvfSbfnidDPN6_Pm3wFAzQ)
 4. [텔레그램](https://t.me/sungbin_dev)
-
----
-
-![github](https://github-readme-stats.vercel.app/api?username=sungbin5304&show_icons=true)
