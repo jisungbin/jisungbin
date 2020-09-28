@@ -14,7 +14,7 @@
 메인 분야는 ![안드로이드](https://img.shields.io/badge/-Android-00c717?style=for-the-badge&logo=android&logoColor=fff)이며, 최근 웹 개발에 관심이 들려 웹 개발쪽도 배우고 있어요!
 
 # 🤓 좋아하는 언어
-![코틀린](https://img.shields.io/badge/-Kotlin-0095d5?style=for-the-badge&logo=kotlin&logoColor=fff) 💕
+![코틀린](https://img.shields.io/badge/-Kotlin-0095d5?style=for-the-badge&logo=kotlin&logoColor=fff) 💕 저는 코틀린을 엄청 좋아해요!
 
 # 👨🏻‍💻 사용 가능 언어
 1. - [x] [JavaScript](https://github.com/sungbin5304/KUtils)
