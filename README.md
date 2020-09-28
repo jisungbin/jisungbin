@@ -1,9 +1,11 @@
 ![banner](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FcMOZw7%2FbtqEOZ8KasS%2FJ5bWvGnkiwF2IxDK3A3YE0%2Fimg.png)
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=sungbin5304&show_icons=true" />
+
 # Hi there 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsungbin5304%2Fsungbin5304&count_bg=%2396D667&title_bg=%23555555&icon=ghostery.svg&icon_color=%23FFFFFF&title=see+my+profile&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # 😄 자기소개
-안드로이드쪽으로 취직을 희망하고 있는, 2020년 기준 고3 학생!
+안드로이드쪽으로 취직을 희망하고 있는,<br/>2020년 기준 고3 학생!
 
 # 🥰 관심 분야
 메인 분야는 ![안드로이드](https://img.shields.io/badge/-Android-00c717?style=for-the-badge&logo=android&logoColor=fff)이며, 최근 웹 개발에 관심이 들려 웹 개발쪽도 배우고 있어요!
