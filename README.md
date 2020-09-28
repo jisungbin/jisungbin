@@ -15,20 +15,20 @@
 1. - [x] [JavaScript](https://github.com/sungbin5304/KUtils)
 2. - [x] [Java](https://github.com/sungbin5304/SnsAutoReplyBot)
 3. - [ ] TypeScript
-4. - [x] Node.js
-5. - [x] C
+4. - [ ] Node.js
+5. - [ ] C
 6. - [ ] C#
 7. - [ ] C++
 8. - [x] [Kotlin](https://github.com/sungbin5304/AndroidUtils)
-9. - [x] Lua
+9. - [ ] Lua
 10. - [ ] Deno
 11. - [x] [VBA](https://github.com/sungbin5304/ParsingPingPongDataWithPowerPoint_Example)
 12. - [x] Swift
 13. - [ ] Rust
-14. - [x] Dart (flutter)
+14. - [ ] Dart (flutter)
 15. - [ ] Vue.js
 16. - [ ] Next.js
-17. - [x] React
+17. - [ ] React
 18. - [ ] HTML
 19. - [x] Python
 20. - [x] PHP
