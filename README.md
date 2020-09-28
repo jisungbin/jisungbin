@@ -7,6 +7,8 @@
 # 😄 자기소개
 안드로이드쪽으로 취직을 희망하고 있는,<br/>2020년 기준 고3 학생!
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sungbin5304" />
+
 # 🥰 관심 분야
 메인 분야는 ![안드로이드](https://img.shields.io/badge/-Android-00c717?style=for-the-badge&logo=android&logoColor=fff)이며, 최근 웹 개발에 관심이 들려 웹 개발쪽도 배우고 있어요!
 
