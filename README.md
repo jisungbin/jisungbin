@@ -2,28 +2,39 @@
 
 # Hi there 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsungbin5304%2Fsungbin5304&count_bg=%2396D667&title_bg=%23555555&icon=ghostery.svg&icon_color=%23FFFFFF&title=see+my+profile&edge_flat=false)](https://hits.seeyoufarm.com)
 
-😄 안드로이드쪽으로 취직을 희망하고 있는, 2020년 기준 고3 학생!
+# 😄 자기소개
+안드로이드쪽으로 취직을 희망하고 있는, 2020년 기준 고3 학생!
 
-🥰 메인 분야는 ![안드로이드](https://img.shields.io/badge/-Android-00c717?style=for-the-badge&logo=android&logoColor=fff)이며, 최근 웹 개발에 관심이 들려 웹 개발쪽도 배우는 단계에 있습니다.
+# 🥰 관심 분야
+메인 분야는 ![안드로이드](https://img.shields.io/badge/-Android-00c717?style=for-the-badge&logo=android&logoColor=fff)이며, 최근 웹 개발에 관심이 들려 웹 개발쪽도 배우는 단계에 있습니다.
 
-🤓 주로 쓰는 언어로는 ![코틀린](https://img.shields.io/badge/-Kotlin-0095d5?style=for-the-badge&logo=kotlin&logoColor=fff), ![자바](https://img.shields.io/badge/-Java-fc7b03?style=for-the-badge&logo=java&logoColor=fff), ![자바스크립트](https://img.shields.io/badge/-Javascript-f5c800?style=for-the-badge&logo=javascript&logoColor=fff) 가 있고, 이 언어들 말고 [다른 언어들](https://github.com/sungbin5304/Programming-Study#languages)도 배우고 있습니다. 
+# 🤓 주로 쓰는 언어
+주로 쓰는 언어로는 ![코틀린](https://img.shields.io/badge/-Kotlin-0095d5?style=for-the-badge&logo=kotlin&logoColor=fff), ![자바](https://img.shields.io/badge/-Java-fc7b03?style=for-the-badge&logo=java&logoColor=fff), ![자바스크립트](https://img.shields.io/badge/-Javascript-f5c800?style=for-the-badge&logo=javascript&logoColor=fff) 가 있고, 이 언어들 말고 [다른 언어들](https://github.com/sungbin5304/Programming-Study#languages)도 배우고 있습니다. 
 
-<!-- ![TopLanguage](https://github-readme-stats.vercel.app/api/top-langs/?username=sungbin5304) -->
+# 👨🏻‍💻 사용 가능 언어
+1. - [x] [JavaScript](https://github.com/sungbin5304/KUtils)
+2. - [x] [Java](https://github.com/sungbin5304/SnsAutoReplyBot)
+3. - [ ] TypeScript
+4. - [x] Node.js
+5. - [x] C
+6. - [ ] C#
+7. - [ ] C++
+8. - [x] [Kotlin](https://github.com/sungbin5304/AndroidUtils)
+9. - [x] Lua
+10. - [ ] Deno
+11. - [x] [VBA](https://github.com/sungbin5304/ParsingPingPongDataWithPowerPoint_Example)
+12. - [x] Swift
+13.- [ ] Rust
+14. - [x] Dart (flutter)
+15. - [ ] Vue.js
+16. - [ ] Next.js
+17. - [x] React
+18. - [ ] HTML
+19. - [x] Python
+20. - [x] PHP
 
-🔥 최근에는 안드로이드 취업 준비를 위해서 안드로이드 면접에 대해 공부하고 있습니다.<br />
-[![Android-Interview-QnA-2020](https://github-readme-stats.vercel.app/api/pin/?username=sungbin5304&repo=Android-Interview-QnA-2020)](https://github.com/sungbin5304/Android-Interview-QnA-2020)
-
-
-🔗 기타 SNS : [티스토리](https://sungbin.me/), [네이버 블로그](https://blog.naver.com/sungbin_dev), [유튜브](https://www.youtube.com/channel/UCSvfSbfnidDPN6_Pm3wFAzQ?view_as=subscriber), [텔레그램](https://t.me/sungbin_dev)
-
------
-
-![깃허브](https://github-readme-stats.vercel.app/api?username=sungbin5304&show_icons=true)<br /> 
-<div>
-  
-[![AndroidUtils](https://github-readme-stats.vercel.app/api/pin/?username=sungbin5304&repo=AndroidUtils)](https://github.com/sungbin5304/AndroidUtils)
-[![KUtils](https://github-readme-stats.vercel.app/api/pin/?username=KakaoTalkBotOrganization&repo=KUtils)](https://github.com/KakaoTalkBotOrganization/KUtils)<br />
-[![GetLastReceivePictureFromKakaoTalk](https://github-readme-stats.vercel.app/api/pin/?username=KakaoTalkBotOrganization&repo=GetLastReceivePictureFromKakaoTalk)](https://github.com/KakaoTalkBotOrganization/GetLastReceivePictureFromKakaoTalk) 
-[![Programming-Study](https://github-readme-stats.vercel.app/api/pin/?username=sungbin5304&repo=Programming-Study)](https://github.com/sungbin5304/Programming-Study)
-
-  </div>
+# 🔗 기타 SNS
+1. [티스토리](https://sungbin.me/)
+2. [네이버 블로그](https://blog.naver.com/sungbin_dev)
+3. [유튜브](https://www.youtube.com/channel/UCSvfSbfnidDPN6_Pm3wFAzQ)
+4. [텔레그램](https://t.me/sungbin_dev)
