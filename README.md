@@ -16,7 +16,7 @@
 # 🤓 좋아하는 언어
 ![코틀린](https://img.shields.io/badge/-Kotlin-0095d5?style=for-the-badge&logo=kotlin&logoColor=fff) 💕 저는 코틀린을 엄청 좋아해요!
 
-# 👨🏻‍💻 사용 가능 언어
+# 👨🏻‍💻 잘 쓰고싶은 언어
 1. - [x] [JavaScript](https://github.com/sungbin5304/KUtils)
 2. - [x] [Java](https://github.com/sungbin5304/SnsAutoReplyBot)
 3. - [ ] TypeScript
