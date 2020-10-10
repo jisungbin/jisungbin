@@ -27,16 +27,16 @@
 8. - [x] [Kotlin](https://github.com/sungbin5304/AndroidUtils)
 9. - [ ] Lua
 10. - [ ] Deno
-11. - [x] [VBA](https://github.com/sungbin5304/ParsingPingPongDataWithPowerPoint_Example)
-12. - [x] Swift
+11. - [ ] [VBA](https://github.com/sungbin5304/ParsingPingPongDataWithPowerPoint_Example)
+12. - [ ] Swift
 13. - [ ] Rust
 14. - [ ] Dart (flutter)
 15. - [ ] Vue.js
 16. - [ ] Next.js
 17. - [ ] React
 18. - [ ] HTML
-19. - [x] Python
-20. - [x] PHP
+19. - [ ] Python
+20. - [ ] PHP
 
 # 🔗 기타 SNS
 1. [티스토리](https://sungbin.me/)
