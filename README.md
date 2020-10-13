@@ -20,7 +20,7 @@
 1. - [x] [JavaScript](https://github.com/sungbin5304/KUtils)
 2. - [x] [Java](https://github.com/sungbin5304/SnsAutoReplyBot)
 3. - [ ] **TypeScript**
-4. - [ ] Node.js
+4. - [ ] **Node.js**
 5. - [ ] C
 6. - [ ] C#
 7. - [ ] C++
@@ -30,11 +30,11 @@
 11. - [ ] [VBA](https://github.com/sungbin5304/ParsingPingPongDataWithPowerPoint_Example)
 12. - [ ] **Swift**
 13. - [ ] Rust
-14. - [ ] Dart (flutter)
+14. - [ ] **Dart (flutter)**
 15. - [ ] Vue.js
 16. - [ ] Next.js
 17. - [ ] React
-18. - [ ] HTML
+18. - [ ] **HTML**
 19. - [ ] Python
 20. - [ ] PHP
 
