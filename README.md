@@ -58,7 +58,7 @@
 - [x] Hilt
 
 ### User Interface
-- [ ] Jetpack Compose
+- [ ] **Jetpack Compose**
 - [x] Navigation
 - [x] ConstraintLayout
 - [ ] **MotionLayout**
