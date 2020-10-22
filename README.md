@@ -38,6 +38,35 @@
 19. - [ ] Python
 20. - [ ] PHP
 
+# 🤪 [MAD-Skills](https://developer.android.com/modern-android-development)
+## 1. LANGUAGE
+- [x] Kotlin
+
+## 2. TOOLS
+- [x] Android Studio
+
+## DISTRIBUTION
+- [] Android App Bundle
+
+## APIS
+### Architecture
+- [] Lifecycles
+- [] ViewModel
+- [] WorkManager
+- [] Room
+- [x] Paging
+- [x] Hilt
+
+### User Interface
+- [] Jetpack Compose
+- [x] Navigation
+- [x] ConstraintLayout
+- [] MotionLayout
+- [] Material Design Components
+
+### Media
+- [] CameraX
+
 # 🔗 기타 SNS
 1. [티스토리 블로그](https://devl.es)
 2. [네이버 블로그](https://blog.naver.com/sungbin_dev)
