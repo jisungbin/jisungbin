@@ -50,10 +50,10 @@
 
 ## 4. APIS
 ### Architecture
-- [ ] Lifecycles
-- [ ] ViewModel
+- [ ] **Lifecycles**
+- [ ] **ViewModel**
 - [ ] WorkManager
-- [ ] Room
+- [ ] **Room**
 - [x] Paging
 - [x] Hilt
 
@@ -61,7 +61,7 @@
 - [ ] Jetpack Compose
 - [x] Navigation
 - [x] ConstraintLayout
-- [ ] MotionLayout
+- [ ] **MotionLayout**
 - [ ] Material Design Components
 
 ### Media
