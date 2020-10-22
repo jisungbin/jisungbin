@@ -45,27 +45,27 @@
 ## 2. TOOLS
 - [x] Android Studio
 
-## DISTRIBUTION
-- [] Android App Bundle
+## 3. DISTRIBUTION
+- [ ] Android App Bundle
 
-## APIS
+## 4. APIS
 ### Architecture
-- [] Lifecycles
-- [] ViewModel
-- [] WorkManager
-- [] Room
+- [ ] Lifecycles
+- [ ] ViewModel
+- [ ] WorkManager
+- [ ] Room
 - [x] Paging
 - [x] Hilt
 
 ### User Interface
-- [] Jetpack Compose
+- [ ] Jetpack Compose
 - [x] Navigation
 - [x] ConstraintLayout
-- [] MotionLayout
-- [] Material Design Components
+- [ ] MotionLayout
+- [ ] Material Design Components
 
 ### Media
-- [] CameraX
+- [ ] CameraX
 
 # 🔗 기타 SNS
 1. [티스토리 블로그](https://devl.es)
