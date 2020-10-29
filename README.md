@@ -17,26 +17,22 @@
 ![코틀린](https://img.shields.io/badge/-Kotlin-0095d5?style=for-the-badge&logo=kotlin&logoColor=fff) 💕 저는 코틀린을 엄청 좋아해요!
 
 # 👨🏻‍💻 잘 쓰고싶은 언어
-1. - [x] [JavaScript](https://github.com/sungbin5304/KUtils)
-2. - [x] [Java](https://github.com/sungbin5304/SnsAutoReplyBot)
-3. - [ ] **TypeScript**
-4. - [ ] **Node.js**
-5. - [ ] C
-6. - [ ] C#
-7. - [ ] C++
-8. - [x] [**Kotlin**](https://github.com/sungbin5304/AndroidUtils)
-9. - [ ] **Lua**
-10. - [ ] **Deno**
-11. - [ ] [VBA](https://github.com/sungbin5304/ParsingPingPongDataWithPowerPoint_Example)
-12. - [ ] **Swift**
-13. - [ ] Rust
-14. - [ ] **Dart (flutter)**
-15. - [ ] Vue.js
-16. - [ ] Next.js
-17. - [ ] React
-18. - [ ] **HTML**
-19. - [ ] Python
-20. - [ ] PHP
+- [ ] **TypeScript**
+- [ ] **Node.js**
+- [ ] C
+- [ ] C#
+- [ ] C++
+- [x] [**Kotlin**](https://github.com/sungbin5304/AndroidUtils)
+- [ ] **Lua**
+- [ ] **Deno**
+- [ ] **Swift**
+- [ ] **Dart (flutter)**
+- [ ] Vue.js
+- [ ] Next.js
+- [ ] React
+- [ ] **HTML**
+- [ ] **CSS**
+- [ ] PHP
 
 # 🤪 [MAD-Skills](https://developer.android.com/modern-android-development)
 ## 1. LANGUAGE
