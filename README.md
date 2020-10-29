@@ -22,7 +22,7 @@
 - [ ] C
 - [ ] C#
 - [ ] C++
-- [x] [Kotlin](https://github.com/sungbin5304/AndroidUtils)
+- [x] Kotlin
 - [ ] Lua
 - [ ] Deno
 - [ ] Swift
