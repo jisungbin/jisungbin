@@ -18,7 +18,7 @@
 
 # 👨🏻‍💻 잘 쓰고싶은 언어
 - [ ] **TypeScript**
-- [ ] **Node.js**
+- [ ] Node.js
 - [ ] C
 - [ ] C#
 - [ ] C++
@@ -27,12 +27,9 @@
 - [ ] **Deno**
 - [ ] **Swift**
 - [ ] **Dart (flutter)**
-- [ ] Vue.js
 - [ ] Next.js
-- [ ] React
-- [ ] **HTML**
-- [ ] **CSS**
-- [ ] PHP
+- [ ] HTML
+- [ ] CSS
 
 # 🤪 [MAD-Skills](https://developer.android.com/modern-android-development)
 ## 1. LANGUAGE
