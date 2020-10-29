@@ -17,16 +17,16 @@
 ![코틀린](https://img.shields.io/badge/-Kotlin-0095d5?style=for-the-badge&logo=kotlin&logoColor=fff) 💕 저는 코틀린을 엄청 좋아해요!
 
 # 👨🏻‍💻 잘 쓰고싶은 언어
-- [ ] **TypeScript**
+- [ ] TypeScript
 - [ ] Node.js
 - [ ] C
 - [ ] C#
 - [ ] C++
-- [x] [**Kotlin**](https://github.com/sungbin5304/AndroidUtils)
-- [ ] **Lua**
-- [ ] **Deno**
-- [ ] **Swift**
-- [ ] **Dart (flutter)**
+- [x] [Kotlin](https://github.com/sungbin5304/AndroidUtils)
+- [ ] Lua
+- [ ] Deno
+- [ ] Swift
+- [ ] Dart (flutter)
 - [ ] Next.js
 - [ ] HTML
 - [ ] CSS
@@ -43,19 +43,19 @@
 
 ## 4. APIS
 ### Architecture
-- [ ] **Lifecycles**
-- [ ] **ViewModel**
+- [x] Lifecycles
+- [x] ViewModel
 - [ ] WorkManager
-- [ ] **Room**
+- [x] Room
 - [x] Paging
 - [x] Hilt
 
 ### User Interface
-- [ ] **Jetpack Compose**
+- [ ] Jetpack Compose
 - [x] Navigation
 - [x] ConstraintLayout
-- [ ] **MotionLayout**
-- [ ] Material Design Components
+- [ ] MotionLayout
+- [x] Material Design Components
 
 ### Media
 - [ ] CameraX
