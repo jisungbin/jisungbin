@@ -17,13 +17,13 @@
 ![코틀린](https://img.shields.io/badge/-Kotlin-0095d5?style=for-the-badge&logo=kotlin&logoColor=fff) 💕 저는 코틀린을 엄청 좋아해요!
 
 # 👨🏻‍💻 잘 쓰고싶은 언어
-- [ ] C++
-- [x] Kotlin
-- [ ] Lua
-- [ ] Swift
-- [ ] Dart (flutter)
-- [ ] HTML
-- [ ] CSS
+1. - [ ] C++
+2. - [x] Kotlin
+3. - [ ] Lua
+4. - [ ] Swift
+5. - [ ] Dart (flutter)
+6. - [ ] HTML
+7. - [ ] CSS
 
 # 🤪 [MAD-Skills](https://developer.android.com/modern-android-development)
 ## 1. LANGUAGE
