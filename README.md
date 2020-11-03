@@ -17,17 +17,11 @@
 ![코틀린](https://img.shields.io/badge/-Kotlin-0095d5?style=for-the-badge&logo=kotlin&logoColor=fff) 💕 저는 코틀린을 엄청 좋아해요!
 
 # 👨🏻‍💻 잘 쓰고싶은 언어
-- [ ] TypeScript
-- [ ] Node.js
-- [ ] C
-- [ ] C#
 - [ ] C++
 - [x] Kotlin
 - [ ] Lua
-- [ ] Deno
 - [ ] Swift
 - [ ] Dart (flutter)
-- [ ] Next.js
 - [ ] HTML
 - [ ] CSS
 
@@ -62,10 +56,9 @@
 
 # 🔗 기타 SNS
 1. [티스토리 블로그](https://devl.es)
-2. [네이버 블로그](https://blog.naver.com/sungbin_dev)
+2. [개인 사이트](https://sungbin.me)
 3. [네이버 카페](https://cafe.naver.com/nameyee)
 4. [유튜브](https://www.youtube.com/channel/UCSvfSbfnidDPN6_Pm3wFAzQ)
 5. [텔레그램](https://t.me/sungbin5304)
 6. [트위터](https://twitter.com/sungbin_dev)
 7. [트위치](https://www.twitch.tv/sungbin5304)
-8. [개인 사이트](https://sungbin.me)
