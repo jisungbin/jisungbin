@@ -6,7 +6,7 @@
 
 # 😄 자기소개
 안드로이드쪽으로 취직을 희망하고 있는, 2020년 기준 고3 학생이에요.<br/>
-또한 11월달 기준 약 5,200명과 함께하는 [카카오톡 봇 커뮤니티 네이버 카페](https://cafe.naver.com/nameyee)를 운영하고 있어요!
+또한 11월달 기준 약 5,300명과 함께하는 [카카오톡 봇 커뮤니티 네이버 카페](https://cafe.naver.com/nameyee)를 운영하고 있어요!
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sungbin5304" />
 
