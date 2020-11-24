@@ -55,7 +55,7 @@
 - [ ] CameraX
 
 # 🔗 기타 SNS
-1. [티스토리 블로그](https://devl.es)
+1. [개발 블로그](https://devl.es)
 2. [개인 사이트](https://sungbin.me)
 3. [네이버 카페](https://cafe.naver.com/nameyee)
 4. [유튜브](https://www.youtube.com/channel/UCSvfSbfnidDPN6_Pm3wFAzQ)
