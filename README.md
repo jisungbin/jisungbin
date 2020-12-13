@@ -11,11 +11,10 @@
 # 🥰 관심 분야
 메인 분야는 ![안드로이드](https://img.shields.io/badge/-Android-00c717?style=for-the-badge&logo=android&logoColor=fff)이며, [`MAD-Skills`](https://developer.android.com/modern-android-development)중 일부인 `Jetpack Compose`에 대해서 공부하고 있어요. 또한 `iOS`에 대해서도 공부하고 있어요!
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sungbin5304&layout=compact&hide=python,css" />
+
 # 🤓 좋아하는 언어
 ![코틀린](https://img.shields.io/badge/-Kotlin-0095d5?style=for-the-badge&logo=kotlin&logoColor=fff) 💕 저는 코틀린을 엄청 좋아해요!
-
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sungbin5304&layout=compact&hide=python,css" />
 
 # 👨🏻‍💻 잘 쓰고싶은 언어
 1. - [ ] C++
