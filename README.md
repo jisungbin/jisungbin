@@ -8,7 +8,7 @@
 안드로이드 프로그래머를 꿈꾸고 있는, 2020년 기준 고3 학생이에요.<br/>
 또한 11월달 기준 약 5,300명과 함께하는 [카카오톡 봇 커뮤니티 네이버 카페](https://cafe.naver.com/nameyee)를 운영하고 있어요!
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sungbin5304" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sungbin5304&layout=compact&hide=python,css" />
 
 # 🥰 관심 분야
 메인 분야는 ![안드로이드](https://img.shields.io/badge/-Android-00c717?style=for-the-badge&logo=android&logoColor=fff)이며, [`MAD-Skills`](https://developer.android.com/modern-android-development)중 일부인 `Jetpack Compose`에 대해서 공부하고 있어요. 또한 `iOS`에 대해서도 공부하고 있어요!
