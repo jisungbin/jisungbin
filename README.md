@@ -25,7 +25,7 @@
 6. - [ ] HTML
 7. - [ ] CSS
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=SungBin&layout=compact" />
+<img align="right" src="https://wakatime.com/share/@SungBin/837b5c9e-8147-4a34-acd7-2292b3a33978.png" height="50%" width="50%" />
 
 # 🤪 [MAD-Skills](https://developer.android.com/modern-android-development)
 ## 1. LANGUAGE
