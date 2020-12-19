@@ -16,13 +16,10 @@
 ![코틀린](https://img.shields.io/badge/-Kotlin-0095d5?style=for-the-badge&logo=kotlin&logoColor=fff) 💕 저는 코틀린을 엄청 좋아해요!
 
 # 👨🏻‍💻 잘 쓰고싶은 언어
-1. - [ ] C++
-2. - [x] Kotlin
-3. - [ ] Lua
-4. - [ ] Swift
-5. - [ ] Dart (flutter)
-6. - [ ] HTML
-7. - [ ] CSS
+1. - [x] Kotlin
+2. - [ ] Lua
+3. - [ ] Swift
+4. - [ ] Dart (flutter)
 
 <img align="right" src="https://wakatime.com/share/@SungBin/837b5c9e-8147-4a34-acd7-2292b3a33978.png" height="50%" width="50%" />
 
