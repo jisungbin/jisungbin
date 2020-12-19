@@ -20,6 +20,7 @@
 2. - [ ] HTML/CSS
 3. - [ ] Swift
 4. - [ ] Dart (flutter)
+5. - [ ] Lua
 
 <img align="right" src="https://wakatime.com/share/@SungBin/837b5c9e-8147-4a34-acd7-2292b3a33978.png" height="50%" width="50%" />
 
