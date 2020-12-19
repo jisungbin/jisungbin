@@ -56,8 +56,7 @@
 # 🔗 기타 SNS
 1. [개발 블로그](https://devl.es)
 2. [개인 사이트](https://sungbin.me)
-3. [네이버 카페](https://cafe.naver.com/nameyee)
-4. [유튜브](https://www.youtube.com/channel/UCSvfSbfnidDPN6_Pm3wFAzQ)
-5. [텔레그램](https://t.me/sungbin5304)
-6. [트위터](https://twitter.com/sungbin_dev)
-7. [트위치](https://www.twitch.tv/sungbin5304)
+3. [유튜브](https://www.youtube.com/channel/UCSvfSbfnidDPN6_Pm3wFAzQ)
+4. [텔레그램](https://t.me/sungbin5304)
+5. [트위터](https://twitter.com/sungbin_dev)
+6. [트위치](https://www.twitch.tv/sungbin5304)
