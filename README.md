@@ -54,12 +54,15 @@ iOS 프로그래머 또한 꿈꾸고 있어요.
 ### Media
 - [ ] CameraX
 
-# 🔗 기타 SNS
+# 🔗 기타 사이트
 1. [개발 블로그](https://devl.es)
 2. [개인 사이트](https://sungbin.me)
 3. [유튜브](https://www.youtube.com/channel/UCSvfSbfnidDPN6_Pm3wFAzQ)
 4. [텔레그램](https://t.me/sungbin5304)
 5. [트위터](https://twitter.com/sungbin_dev)
 6. [트위치](https://www.twitch.tv/sungbin5304)
+7. [페이스북](https://www.facebook.com/profile.php?id=100013373946772)
+8. [인스타그램](https://www.instagram.com/sungbin__5304)
+9. [구글 플레이스토어 페이지](https://play.google.com/store/apps/dev?id=5527691348431041833)
 
 # Happy Coding :)
