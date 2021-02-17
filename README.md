@@ -66,6 +66,6 @@ iOS 프로그래머 또한 꿈꾸고 있어요.
 8. [인스타그램](https://www.instagram.com/sungbin__5304)
 9. [구글 플레이스토어 페이지](https://play.google.com/store/apps/dev?id=5527691348431041833)
 10. [개인 카카오톡 봇 페이지](https://zmobot.xyz)
-11. 11. [미디움](https://sungbin5304.medium.com)
+11. [미디움](https://sungbin5304.medium.com)
 
 # Happy Coding :)
