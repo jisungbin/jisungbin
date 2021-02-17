@@ -56,7 +56,7 @@ iOS 프로그래머 또한 꿈꾸고 있어요.
 - [ ] CameraX
 
 # 🔗 기타 사이트
-1. [개발 블로그](https://devl.es)
+1. [API ](https://devl.es)
 2. [개인 사이트](https://sungbin.me)
 3. [유튜브](https://www.youtube.com/channel/UCSvfSbfnidDPN6_Pm3wFAzQ)
 4. [텔레그램](https://t.me/sungbin5304)
