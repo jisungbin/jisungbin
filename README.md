@@ -13,9 +13,9 @@ My main programming is ![Android](https://img.shields.io/badge/-Android-00c717?s
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sungbin5304&layout=compact&hide=python,css" />
 
 # 🥰 My favorite language
-![코틀린](https://img.shields.io/badge/-Kotlin-0095d5?style=for-the-badge&logo=kotlin&logoColor=fff) 💕 I love Kotlin so much!
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095d5?style=for-the-badge&logo=kotlin&logoColor=fff) 💕 I love Kotlin so much!
 
-# 👨🏻‍💻 잘 쓰고싶은 언어
+# 👨🏻‍💻 Studying languages to used well
 1. - [ ] Kotlin
 2. - [ ] HTML/CSS
 3. - [ ] Swift
@@ -54,17 +54,17 @@ My main programming is ![Android](https://img.shields.io/badge/-Android-00c717?s
 ### Media
 - [ ] CameraX
 
-# 🔗 기타 사이트
-1. [API 페이지](https://devl.es)
-2. [개인 사이트](https://sungbin.me)
-3. [유튜브](https://www.youtube.com/channel/UCSvfSbfnidDPN6_Pm3wFAzQ)
-4. [텔레그램](https://t.me/sungbin5304)
-5. [트위터](https://twitter.com/sungbin_dev)
-6. [트위치](https://www.twitch.tv/sungbin5304)
-7. [페이스북](https://www.facebook.com/profile.php?id=100013373946772)
-8. [인스타그램](https://www.instagram.com/sungbin__5304)
-9. [구글 플레이스토어 페이지](https://play.google.com/store/apps/dev?id=5527691348431041833)
-10. [개인 카카오톡 봇 페이지](https://zmobot.xyz)
-11. [미디움](https://sungbin5304.medium.com)
+# 🔗 Sites
+1. [API site](https://devl.es)
+2. [Personal site](https://sungbin.me)
+3. [YouTube channel](https://www.youtube.com/channel/UCSvfSbfnidDPN6_Pm3wFAzQ)
+4. [Telegram](https://t.me/sungbin5304)
+5. [Twitter](https://twitter.com/sungbin_dev)
+6. [Twitch](https://www.twitch.tv/sungbin5304)
+7. [Facebook](https://www.facebook.com/profile.php?id=100013373946772)
+8. [Instagram](https://www.instagram.com/sungbin__5304)
+9. [Google playstore page](https://play.google.com/store/apps/dev?id=5527691348431041833)
+10. [Personal KakaoTalk bot site](https://zmobot.xyz)
+11. [Medium](https://sungbin5304.medium.com)
 
 # Happy Coding :)
