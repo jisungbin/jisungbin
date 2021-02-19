@@ -13,7 +13,7 @@ My main programming is ![Android](https://img.shields.io/badge/-Android-00c717?s
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sungbin5304&layout=compact&hide=python,css" />
 
 # 🥰 My favorite language
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095d5?style=for-the-badge&logo=kotlin&logoColor=fff) 💕 I love Kotlin so much!
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095d5?style=for-the-badge&logo=kotlin&logoColor=fff) 💕 I love `Kotlin` so much!
 
 # 👨🏻‍💻 Studying languages to used well
 1. - [ ] Kotlin
