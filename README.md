@@ -2,19 +2,18 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=sungbin5304&show_icons=true" />
 
-# 안녕하세요! 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsungbin5304%2Fsungbin5304&count_bg=%2396D667&title_bg=%23555555&icon=ghostery.svg&icon_color=%23FFFFFF&title=see+my+profile&edge_flat=false)](https://hits.seeyoufarm.com)
+# 👋 Hi! [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsungbin5304%2Fsungbin5304&count_bg=%2396D667&title_bg=%23555555&icon=ghostery.svg&icon_color=%23FFFFFF&title=see+my+profile&edge_flat=false)](https://hits.seeyoufarm.com)
 
-# 😄 자기소개
-안드로이드 프로그래머를 꿈꾸고 있는 성빈이에요!<br/>
-iOS 프로그래머 또한 꿈꾸고 있어요.
+# 😄 About me
+I am Sungbin Ji who always studies to become an `iOS` or `Android` programmer!
 
-# 🥰 관심 분야
-메인 분야는 ![안드로이드](https://img.shields.io/badge/-Android-00c717?style=for-the-badge&logo=android&logoColor=fff)이며, [`MAD-Skills`](https://developer.android.com/modern-android-development)중 일부인 `Jetpack Compose`에 대해서 공부하고 있어요.<br/>또한 `iOS`와 `TypeScript`에 대해서도 공부하고 있어요!
+# 🤓 Main programming
+My main programming is ![Android](https://img.shields.io/badge/-Android-00c717?style=for-the-badge&logo=android&logoColor=fff) and now, I am studying `Jetpack Compose` part of [`MAD-Skills`](https://developer.android.com/modern-android-development).
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sungbin5304&layout=compact&hide=python,css" />
 
-# 🤓 좋아하는 언어
-![코틀린](https://img.shields.io/badge/-Kotlin-0095d5?style=for-the-badge&logo=kotlin&logoColor=fff) 💕 저는 코틀린을 엄청 좋아해요!
+# 🥰 My favorite language
+![코틀린](https://img.shields.io/badge/-Kotlin-0095d5?style=for-the-badge&logo=kotlin&logoColor=fff) 💕 I love Kotlin so much!
 
 # 👨🏻‍💻 잘 쓰고싶은 언어
 1. - [ ] Kotlin
