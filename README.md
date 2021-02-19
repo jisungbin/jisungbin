@@ -1,8 +1,8 @@
 ![banner](SungBin.png)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=sungbin5304&show_icons=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=jisungbin&show_icons=true" />
 
-# 👋 Hi! [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsungbin5304%2Fsungbin5304&count_bg=%2396D667&title_bg=%23555555&icon=ghostery.svg&icon_color=%23FFFFFF&title=see+my+profile&edge_flat=false)](https://hits.seeyoufarm.com)
+# 👋 Hi! [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjisungbin%2Fjisungbin&count_bg=%2396D667&title_bg=%23555555&icon=ghostery.svg&icon_color=%23FFFFFF&title=see+my+profile&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # 😄 About me
 I am Ji Sungbin who always studies to become an `iOS` or `Android` programmer!
@@ -10,7 +10,7 @@ I am Ji Sungbin who always studies to become an `iOS` or `Android` programmer!
 # 🤓 Main programming
 My main programming is ![Android](https://img.shields.io/badge/-Android-00c717?style=for-the-badge&logo=android&logoColor=fff) and now, I am studying `Jetpack Compose` part of [`MAD-Skills`](https://developer.android.com/modern-android-development).
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sungbin5304&layout=compact&hide=python,css" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jisungbin&layout=compact&hide=python,css" />
 
 # 🥰 My favorite language
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095d5?style=for-the-badge&logo=kotlin&logoColor=fff) 💕 I love `Kotlin` so much!
@@ -23,7 +23,7 @@ My main programming is ![Android](https://img.shields.io/badge/-Android-00c717?s
 5. - [ ] Lua
 6. - [ ] TypeScript
 
-<img align="right" src="https://wakatime.com/share/@SungBin/837b5c9e-8147-4a34-acd7-2292b3a33978.png" height="50%" width="50%" />
+<img align="right" src="https://wakatime.com/share/@jisungbin/837b5c9e-8147-4a34-acd7-2292b3a33978.png" height="50%" width="50%" />
 
 # 🤪 [MAD-Skills](https://developer.android.com/modern-android-development)
 ## 1. LANGUAGE
@@ -55,8 +55,8 @@ My main programming is ![Android](https://img.shields.io/badge/-Android-00c717?s
 - [ ] CameraX
 
 # 🔗 Sites
-1. [API site](https://devl.es)
-2. [Personal site](https://sungbin.me)
+1. [API site](https://sungbin.me)
+2. [Personal site](https://sungb.in)
 3. [YouTube channel](https://www.youtube.com/channel/UCSvfSbfnidDPN6_Pm3wFAzQ)
 4. [Telegram](https://t.me/sungbin5304)
 5. [Twitter](https://twitter.com/sungbin_dev)
@@ -65,6 +65,6 @@ My main programming is ![Android](https://img.shields.io/badge/-Android-00c717?s
 8. [Instagram](https://www.instagram.com/sungbin__5304)
 9. [Google playstore page](https://play.google.com/store/apps/dev?id=5527691348431041833)
 10. [Personal KakaoTalk bot site](https://zmobot.xyz)
-11. [Medium](https://sungbin5304.medium.com)
+11. [Medium](https://jisungbin.medium.com)
 
 # Happy Coding :)
