@@ -66,5 +66,7 @@ My main programming is ![Android](https://img.shields.io/badge/-Android-00c717?s
 9. [Google playstore page](https://play.google.com/store/apps/dev?id=5527691348431041833)
 10. [Personal KakaoTalk bot site](https://zmobot.xyz)
 11. [Medium](https://jisungbin.medium.com)
+12. [Steam](https://steamcommunity.com/id/sungbin5304/)
+13. 
 
 # Happy Coding :)
