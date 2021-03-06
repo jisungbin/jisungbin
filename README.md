@@ -70,3 +70,5 @@ My main programming is ![Android](https://img.shields.io/badge/-Android-00c717?s
 13. [Stackoverflow](https://stackoverflow.com/users/14299073/jisungbin?tab=profile)
 
 # Happy Coding :)
+> 2021.03.06. 부터 1일1커밋 다짐!<br/>
+> 공부 파이팅!!!
