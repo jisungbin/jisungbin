@@ -69,7 +69,7 @@ My main programming is ![Android](https://img.shields.io/badge/-Android-00c717?s
 12. [Steam](https://steamcommunity.com/id/sungbin5304/)
 13. [Stackoverflow](https://stackoverflow.com/users/14299073/jisungbin?tab=profile)
 
-# 🙏 I wanna be a Programmer...
+# 🙏 I wanna be a Programmer
 1. Write a story in Medium at least once a week.
 2. Read programming books for at least one hour a day.
 3. Study Android or iOS for at least one hour a day.
