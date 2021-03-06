@@ -5,10 +5,10 @@
 # 👋 Hi! [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjisungbin%2Fjisungbin&count_bg=%2396D667&title_bg=%23555555&icon=ghostery.svg&icon_color=%23FFFFFF&title=see+my+profile&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # 😄 About me
-I am Ji Sungbin who always studies to become an `iOS` or `Android` programmer!
+I am Ji Sungbin who always studies to become an iOS or Android programmer!
 
 # 🤓 Main programming
-My main programming is ![Android](https://img.shields.io/badge/-Android-00c717?style=for-the-badge&logo=android&logoColor=fff) and now, I am studying `Jetpack Compose` part of [`MAD-Skills`](https://developer.android.com/modern-android-development).
+My main programming is ![Android](https://img.shields.io/badge/-Android-00c717?style=for-the-badge&logo=android&logoColor=fff) and now, I am studying Jetpack Compose part of [MAD-Skills](https://developer.android.com/modern-android-development).
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jisungbin&layout=compact&hide=python,css" />
 
