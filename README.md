@@ -55,7 +55,7 @@ My main programming is ![Android](https://img.shields.io/badge/-Android-00c717?s
 - [ ] CameraX
 
 # 🔗 Sites
-1. [API site](https://sungbin.me)
+1. [Dev Blog](https://sungbin.me)
 2. [Personal site](https://sungb.in)
 3. [YouTube channel](https://www.youtube.com/channel/UChubzljAKmAZQ65VFyR7cYA)
 4. [Telegram](https://t.me/sungbin5304)
