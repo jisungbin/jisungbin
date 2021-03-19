@@ -16,12 +16,12 @@ My main programming is ![Android](https://img.shields.io/badge/-Android-00c717?s
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095d5?style=for-the-badge&logo=kotlin&logoColor=fff) 💕 I love `Kotlin` so much!
 
 # 👨🏻‍💻 Studying languages to used well
-1. - [ ] Kotlin
+1. - [x] Kotlin
 2. - [ ] HTML/CSS
 3. - [ ] Swift
 4. - [ ] Dart (flutter)
 5. - [ ] Lua
-6. - [ ] TypeScript
+6. - [x] TypeScript
 
 <img align="right" src="https://wakatime.com/share/@jisungbin/837b5c9e-8147-4a34-acd7-2292b3a33978.png" height="50%" width="50%" />
 
@@ -45,7 +45,7 @@ My main programming is ![Android](https://img.shields.io/badge/-Android-00c717?s
 - [x] Hilt
 
 ### User Interface
-- [ ] Jetpack Compose
+- [x] Jetpack Compose
 - [x] Navigation
 - [x] ConstraintLayout
 - [ ] MotionLayout
