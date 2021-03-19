@@ -57,17 +57,10 @@ My main programming is ![Android](https://img.shields.io/badge/-Android-00c717?s
 # 🔗 Sites
 1. [Dev Blog](https://sungbin.me)
 2. [Personal site](https://sungb.in)
-3. [YouTube channel](https://www.youtube.com/channel/UChubzljAKmAZQ65VFyR7cYA)
-4. [Telegram](https://t.me/sungbin5304)
-5. [Twitter](https://twitter.com/sungbin_dev)
-6. [Twitch](https://www.twitch.tv/sungbin5304)
-7. [Facebook](https://www.facebook.com/profile.php?id=100013373946772)
-8. [Instagram](https://www.instagram.com/sungbin__5304)
-9. [Google playstore page](https://play.google.com/store/apps/dev?id=5527691348431041833)
-10. [Personal KakaoTalk bot site](https://zmobot.xyz)
-11. [Medium](https://jisungbin.medium.com)
-12. [Steam](https://steamcommunity.com/id/sungbin5304/)
-13. [Stackoverflow](https://stackoverflow.com/users/14299073/jisungbin?tab=profile)
+3. [Facebook](https://www.facebook.com/profile.php?id=100013373946772)
+4. [Instagram](https://www.instagram.com/sungbin__5304)
+5. [Google playstore page](https://play.google.com/store/apps/dev?id=5527691348431041833)
+6. [Steam](https://steamcommunity.com/id/sungbin5304)
 
 # 🙏 I wanna be a Programmer
 1. Write a story in Medium at least once a week.
