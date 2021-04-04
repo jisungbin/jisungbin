@@ -54,6 +54,10 @@ My main programming is ![Android](https://img.shields.io/badge/-Android-00c717?s
 ### Media
 - [ ] CameraX
 
+# 🔥 Main Project
+My main project is `GitMessengerBot`. <br/>
+[![GitMessengerBot](https://github-readme-stats.vercel.app/api/pin/?username=gitmessengerbot&repo=gitmessengerbot-android)](https://github.com/gitmessengerbot/gitmessengerbot-android)
+
 # 🔗 Sites
 1. [Dev Blog](https://sungbin.me)
 2. [Personal site](https://sungb.in)
