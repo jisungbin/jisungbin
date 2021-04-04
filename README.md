@@ -56,7 +56,7 @@ My main programming is ![Android](https://img.shields.io/badge/-Android-00c717?s
 
 # 🔥 Main Project
 My main project is `GitMessengerBot`. <br/>
-[![GitMessengerBot](https://github-readme-stats.vercel.app/api/pin/?username=gitmessengerbot&repo=gitmessengerbot-android)](https://github.com/gitmessengerbot/gitmessengerbot)
+[![GitMessengerBot](https://github-readme-stats.vercel.app/api/pin/?username=gitmessengerbot&repo=gitmessengerbot)](https://github.com/gitmessengerbot/gitmessengerbot)
 
 # 🔗 Sites
 1. [Dev Blog](https://sungbin.me)
