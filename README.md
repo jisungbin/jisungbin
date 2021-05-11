@@ -1,8 +1,6 @@
-[![banner](SungBin.png)](https://github.com/jisungbin/fashion-guide)
-
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jisungbin&show_icons=true" />
 
-# 👋 Hi! [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjisungbin%2Fjisungbin&count_bg=%2396D667&title_bg=%23555555&icon=ghostery.svg&icon_color=%23FFFFFF&title=see+my+profile&edge_flat=false)](https://hits.seeyoufarm.com)
+# 👋 Hi! [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjisungbin%2Fjisungbin&count_bg=%2396D667&title_bg=%23555555&icon=ghostery.svg&icon_color=%23FFFFFF&title=see+my+profile&edge_flat=false)](https://github.com/jisungbin/fashion-guide)
 
 # 😄 About me
 I am Ji Sungbin who always studies to become an Android or iOS programmer!
