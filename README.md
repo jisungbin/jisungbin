@@ -1,3 +1,7 @@
+나도 코딩 잘하고싶다 ㅠ
+
+<details>
+  <summary>See profile</summary>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jisungbin&show_icons=true" />
 
 # 👋 Hi! [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjisungbin%2Fjisungbin&count_bg=%2396D667&title_bg=%23555555&icon=ghostery.svg&icon_color=%23FFFFFF&title=see+my+profile&edge_flat=false)](https://github.com/jisungbin/fashion-guide)
@@ -69,3 +73,4 @@ My main programming is ![Android](https://img.shields.io/badge/-Android-00c717?s
 2. Study Android or iOS for at least one hour a day.
 
 # 🤗 Happy Coding :)
+</details>
