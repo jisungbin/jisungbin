@@ -1,4 +1,5 @@
-나도 코딩 잘하고싶다 ㅠ
+나도 코딩 잘하고싶다 ㅠ<br/>
+이 실력으로 미래가 있을까
 
 <details>
   <summary>See profile</summary>
