@@ -13,7 +13,7 @@
   # 🤓 Main programming
   My main programming is ![Android](https://img.shields.io/badge/-Android-00c717?style=for-the-badge&logo=android&logoColor=fff) and now, I am studying Jetpack Compose part of [MAD-Skills](https://developer.android.com/modern-android-development).
 
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jisungbin&layout=compact&hide=python,css" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jisungbin&layout=compact" />
 
   # 🥰 My favorite language
   ![Kotlin](https://img.shields.io/badge/-Kotlin-0095d5?style=for-the-badge&logo=kotlin&logoColor=fff) 💕 I love `Kotlin` so much!
