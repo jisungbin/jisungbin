@@ -1,8 +1,4 @@
-나도 코딩 잘하고싶다..<br/>
-이 실력으로 미래가 있을까 ㅠㅠ<br/>
 
-<details>
-  <summary>See profile</summary>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=jisungbin&show_icons=true&count_private=true&include_all_commits=true" />
 
   # 👋 Hi! [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjisungbin%2Fjisungbin&count_bg=%2396D667&title_bg=%23555555&icon=ghostery.svg&icon_color=%23FFFFFF&title=see+my+profile&edge_flat=false)](https://github.com/jisungbin/fashion-guide)
@@ -78,4 +74,4 @@
   <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=jisungbin&count_private=true&theme=juicyfresh&margin-w=15&margin-h=15" />
   <p/>
-</details>
+
