@@ -24,6 +24,7 @@
 
   <img align="right" src="https://wakatime.com/share/@jisungbin/837b5c9e-8147-4a34-acd7-2292b3a33978.png" height="50%" width="50%" />
 
+<!--
   # 🤪 [MAD-Skills](https://developer.android.com/modern-android-development)
   ## 1. LANGUAGE
   - [x] Kotlin
@@ -52,6 +53,7 @@
 
   ### Media
   - [ ] CameraX
+-->
 
   # 🔥 Main Project
   [![GitMessengerBot](https://github-readme-stats.vercel.app/api/pin/?username=gitmessengerbot&repo=gitmessengerbot)](https://github.com/gitmessengerbot/gitmessengerbot)
@@ -65,9 +67,11 @@
   5. [Google playstore page](https://play.google.com/store/apps/dev?id=5527691348431041833)
   6. [Steam](https://steamcommunity.com/id/sungbin5304)
 
+<!--
   # 🙏 I wanna be a Programmer
   1. Read programming books for at least one hour a day.
   2. Study Android or iOS for at least one hour a day.
+-->
 
   # 🤗 Happy Coding :)
   
