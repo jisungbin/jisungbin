@@ -1,83 +1,23 @@
+# 👋 Hi! [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjisungbin%2Fjisungbin&count_bg=%2396D667&title_bg=%23555555&icon=ghostery.svg&icon_color=%23FFFFFF&title=see+my+profile&edge_flat=false)](https://github.com/jisungbin/fashion-guide)
 
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=jisungbin&show_icons=true&count_private=true&include_all_commits=true" />
+## 🔥 개발 가능 플랫폼
+1. Android
+2. iOS
+3. Web
 
-  # 👋 Hi! [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjisungbin%2Fjisungbin&count_bg=%2396D667&title_bg=%23555555&icon=ghostery.svg&icon_color=%23FFFFFF&title=see+my+profile&edge_flat=false)](https://github.com/jisungbin/fashion-guide)
+## 사용 가능 언어
+1. Kotlin, Java
+2. Javascript, Typescript
+3. Swift
 
-  # 😄 About me
-  I am Ji Sungbin who always studies to become an Android or iOS programmer!
+## 📚 메인 프로젝트
+[![GitMessengerBot](https://github-readme-stats.vercel.app/api/pin/?username=gitmessengerbot&repo=gitmessengerbot)](https://github.com/gitmessengerbot/gitmessengerbot)
+[![레몬: 톡쏘는 음악의 즐거움](https://github-readme-stats.vercel.app/api/pin/?username=lemon-music&repo=lemon-android)](https://github.com/lemon-music/lemon-android)
 
-  # 🤓 Main programming
-  My main programming is ![Android](https://img.shields.io/badge/-Android-00c717?style=for-the-badge&logo=android&logoColor=fff)
+## 🔗 링크
+1. [개발 블로그](https://sungbin.me)
+2. [포트폴리오](https://sungb.in)
+4. [인스타그램](https://www.instagram.com/sungbin__5304)
+5. [구글 플레이스토어](https://play.google.com/store/apps/dev?id=5527691348431041833)
 
-<!--
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jisungbin&layout=compact&hide=python,css" />
--->
-
-  # 🥰 My favorite language
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-0095d5?style=for-the-badge&logo=kotlin&logoColor=fff) 💕 I love `Kotlin` so much!
-
-<!--
-  # 👨🏻‍💻 Studying languages to used well
-  1. - [x] Kotlin
-  2. - [ ] HTML/CSS
-  3. - [ ] Swift
-  4. - [ ] Dart (flutter)
-  5. - [ ] Lua
-  6. - [ ] TypeScript
-
-  <img align="right" src="https://wakatime.com/share/@jisungbin/837b5c9e-8147-4a34-acd7-2292b3a33978.png" height="50%" width="50%" />
-
-  # 🤪 [MAD-Skills](https://developer.android.com/modern-android-development)
-  ## 1. LANGUAGE
-  - [x] Kotlin
-
-  ## 2. TOOLS
-  - [x] Android Studio
-
-  ## 3. DISTRIBUTION
-  - [ ] Android App Bundle
-
-  ## 4. APIS
-  ### Architecture
-  - [x] Lifecycles
-  - [x] ViewModel
-  - [ ] WorkManager
-  - [x] Room
-  - [x] Paging
-  - [x] Hilt
-
-  ### User Interface
-  - [x] Jetpack Compose
-  - [x] Navigation
-  - [x] ConstraintLayout
-  - [ ] MotionLayout
-  - [x] Material Design Components
-
-  ### Media
-  - [ ] CameraX
--->
-
-  # 🔥 Main Project
-  [![GitMessengerBot](https://github-readme-stats.vercel.app/api/pin/?username=gitmessengerbot&repo=gitmessengerbot)](https://github.com/gitmessengerbot/gitmessengerbot)
-  [![레몬: 톡쏘는 음악의 즐거움](https://github-readme-stats.vercel.app/api/pin/?username=lemon-music&repo=lemon-android)](https://github.com/lemon-music/lemon-android)
-
-  # 🔗 Sites
-  1. [Dev Blog](https://sungbin.me)
-  2. [Personal site](https://sungb.in)
-  3. [Facebook](https://www.facebook.com/profile.php?id=100013373946772)
-  4. [Instagram](https://www.instagram.com/sungbin__5304)
-  5. [Google playstore page](https://play.google.com/store/apps/dev?id=5527691348431041833)
-  6. [Steam](https://steamcommunity.com/id/sungbin5304)
-
-<!--
-  # 🙏 I wanna be a Programmer
-  1. Read programming books for at least one hour a day.
-  2. Study Android or iOS for at least one hour a day.
--->
-
-  # 🤗 Happy Coding :)
-  
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=jisungbin&count_private=true&theme=juicyfresh&margin-w=15&margin-h=15" />
-  <p/>
-
+# 🤗 Happy Coding :)
