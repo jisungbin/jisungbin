@@ -7,7 +7,7 @@
   I am Ji Sungbin who always studies to become an Android or iOS programmer!
 
   # 🤓 Main programming
-  My main programming is ![Android](https://img.shields.io/badge/-Android-00c717?style=for-the-badge&logo=android&logoColor=fff).
+  My main programming is ![Android](https://img.shields.io/badge/-Android-00c717?style=for-the-badge&logo=android&logoColor=fff)
 
 <!--
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jisungbin&layout=compact&hide=python,css" />
