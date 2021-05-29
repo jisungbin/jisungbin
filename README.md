@@ -5,7 +5,7 @@
 2. iOS
 3. Web
 
-## 사용 가능 언어
+## 🔧 사용 가능 언어
 1. Kotlin, Java
 2. Javascript, Typescript
 3. Swift
