@@ -9,6 +9,7 @@
 1. Kotlin, Java
 2. Javascript, Typescript
 3. Swift
+4. html, css
 
 ## 📚 메인 프로젝트
 [![GitMessengerBot](https://github-readme-stats.vercel.app/api/pin/?username=gitmessengerbot&repo=gitmessengerbot)](https://github.com/gitmessengerbot/gitmessengerbot)
