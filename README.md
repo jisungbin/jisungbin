@@ -13,7 +13,7 @@
 1. Kotlin, Java
 2. Javascript, Typescript (공부중)
 3. Swift (공부중)
-4. Html, Css (공부중)
+4. Html, Css
 
 # 📚 메인 프로젝트
 [![GitMessengerBot](https://github-readme-stats.vercel.app/api/pin/?username=gitmessengerbot&repo=gitmessengerbot)](https://github.com/gitmessengerbot/gitmessengerbot)
