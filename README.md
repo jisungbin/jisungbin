@@ -14,6 +14,7 @@
   # 🥰 My favorite language
   ![Kotlin](https://img.shields.io/badge/-Kotlin-0095d5?style=for-the-badge&logo=kotlin&logoColor=fff) 💕 I love `Kotlin` so much!
 
+<!--
   # 👨🏻‍💻 Studying languages to used well
   1. - [x] Kotlin
   2. - [ ] HTML/CSS
@@ -22,8 +23,6 @@
   5. - [ ] Lua
   6. - [ ] TypeScript
 
-
-<!--
   <img align="right" src="https://wakatime.com/share/@jisungbin/837b5c9e-8147-4a34-acd7-2292b3a33978.png" height="50%" width="50%" />
 
   # 🤪 [MAD-Skills](https://developer.android.com/modern-android-development)
