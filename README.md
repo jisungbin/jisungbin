@@ -10,7 +10,7 @@
 3. Web
 
 # 🔧 사용 가능 언어
-1. Kotlin, Java
+1. **Kotlin**, Java
 2. Javascript, Typescript (공부중)
 3. Swift (공부중)
 4. Html, Css
