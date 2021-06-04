@@ -15,7 +15,7 @@
 3. Swift
 4. Html, Css
 
-# 📚 메인 프로젝트
+# 📚 메인 프로젝트 (개발중)
 [![GitMessengerBot](https://github-readme-stats.vercel.app/api/pin/?username=gitmessengerbot&repo=gitmessengerbot)](https://github.com/gitmessengerbot/gitmessengerbot)
 [![레몬: 톡쏘는 음악의 즐거움](https://github-readme-stats.vercel.app/api/pin/?username=lemon-music&repo=lemon-android)](https://github.com/lemon-music/lemon-android)
 
