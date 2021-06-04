@@ -5,14 +5,14 @@
 -----
 
 # 🔥 개발 가능 플랫폼
-1. **Android** (main)
+1. **Android** (메인)
 2. iOS
 3. Web
 
 # 🔧 사용 가능 언어
 1. **Kotlin**, Java
-2. Javascript, Typescript (공부중)
-3. Swift (공부중)
+2. Javascript, Typescript
+3. Swift
 4. Html, Css
 
 # 📚 메인 프로젝트
