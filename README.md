@@ -17,7 +17,7 @@
 
 # 📚 메인 프로젝트 (개발중)
 [![GitMessengerBot](https://github-readme-stats.vercel.app/api/pin/?username=gitmessengerbot&repo=GitMessengerBot-Android)](https://github.com/GitMessengerBot/GitMessengerBot-Android)
-[![레몬: 톡쏘는 음악의 즐거움](https://github-readme-stats.vercel.app/api/pin/?username=lemon-music&repo=lemon-android)](https://github.com/lemon-music/lemon-android)
+[![레몬: 톡쏘는 음악의 즐거움](https://github-readme-stats.vercel.app/api/pin/?username=brave-people&repo=Dev-Event-Android)](https://github.com/brave-people/Dev-Event-Android)
 
 # 🔗 링크
 1. [개발 블로그](https://sungbin.me)
