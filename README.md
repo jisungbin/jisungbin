@@ -28,8 +28,9 @@
 
 # 📚 메인 프로젝트
 
-[![GitMessengerBot](https://github-readme-stats.vercel.app/api/pin/?username=gitmessengerbot&repo=GitMessengerBot-Android)](https://github.com/GitMessengerBot/GitMessengerBot-Android)
-[![개발자 행사 알리미](https://github-readme-stats.vercel.app/api/pin/?username=brave-people&repo=Dev-Event-Android)](https://github.com/brave-people/Dev-Event-Android)
+[![GitMessengerBot](https://github-readme-stats.vercel.app/api/pin/?username=gitmessengerbot&repo=GitMessengerBot-Android)](https://github.com/GitMessengerBot/GitMessengerBot-Android) <br/>
+[![개발자 행사 알리미](https://github-readme-stats.vercel.app/api/pin/?username=brave-people&repo=Dev-Event-Android)](https://github.com/brave-people/Dev-Event-Android) <br/>
+[![SpakChat](https://github-readme-stats.vercel.app/api/pin/?username=jisungbin&repo=SpakChat)](https://github.com/jisungbin/SpakChat)
 
 
 
