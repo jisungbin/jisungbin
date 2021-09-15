@@ -34,7 +34,7 @@
 
 # 🔗 링크
 
-1. [포트폴리오](https://sungb.in)
+1. [포트폴리오](https://jisungbin.notion.site/jisungbin/84d547d8f13d445aa0cec8c526e3f803)
 2. [인스타그램](https://www.instagram.com/sungbin__5304)
 
 
