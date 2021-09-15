@@ -34,10 +34,8 @@
 
 # 🔗 링크
 
-1. [개발 블로그](https://sungbin.tistory.com/)
-2. [포트폴리오](https://sungb.in)
-3. [인스타그램](https://www.instagram.com/sungbin__5304)
-4. [구글 플레이스토어](https://play.google.com/store/apps/dev?id=5527691348431041833)
+1. [포트폴리오](https://sungb.in)
+2. [인스타그램](https://www.instagram.com/sungbin__5304)
 
 
 
