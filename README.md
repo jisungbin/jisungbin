@@ -11,7 +11,7 @@
 
 # 🔥 Developable platform
 
-1. **Android** (메인)
+1. **Android** (main)
 2. iOS
 3. Web
 
