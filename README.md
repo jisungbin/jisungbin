@@ -2,14 +2,14 @@
 
 -----
 
-# 🎖️ 프로필
+# 🎖️ Profile
 
 ![](https://github-readme-stats.vercel.app/api?username=jisungbin&show_icons=true&count_private=true&include_all_commits=true) <br/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sungbin5304)](https://solved.ac/sungbin5304/)
 
 
 
-# 🔥 개발 가능 플랫폼
+# 🔥 Developable platform
 
 1. **Android** (메인)
 2. iOS
@@ -17,7 +17,7 @@
 
 
 
-# 🔧 사용 가능 언어
+# 🔧 Available languages
 
 1. **Kotlin**, Java
 2. Javascript, Typescript
@@ -26,20 +26,20 @@
 
 
 
-# 📚 메인 프로젝트 (개발중)
+# 📚 Main project
 
 [![GitMessengerBot](https://github-readme-stats.vercel.app/api/pin/?username=jisungbin&repo=wip-projects)](https://github.com/jisungbin/wip-projects)
 
 
 
-# 🔗 링크
+# 🔗 Link
 
 1. [포트폴리오](https://jisungbin.notion.site/jisungbin/84d547d8f13d445aa0cec8c526e3f803)
 2. [인스타그램](https://www.instagram.com/sungbin__5304)
 
 
 
-# 💡 목표
+# 💡 Goals
 
 1. deview 발표해보기
 2. 기술서적 출판 (가능???)
