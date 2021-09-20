@@ -17,7 +17,7 @@
 
 
 
-# 🔧 Available languages
+# 🔧 Usable languages
 
 1. **Kotlin**, Java
 2. Javascript, Typescript
