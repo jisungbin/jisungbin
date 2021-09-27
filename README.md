@@ -13,7 +13,7 @@
 
 1. **Android** (main)
 2. iOS
-3. Web
+3. Web (newbie)
 
 
 
