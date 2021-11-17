@@ -20,8 +20,8 @@
 # 🔧 Usable languages
 
 1. **Kotlin**, Java
-2. Javascript, Typescript
-3. Swift
+2. Swift
+3. Javascript, Typescript
 4. ~~Html, Css~~
 
 
