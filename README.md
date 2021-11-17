@@ -13,7 +13,7 @@
 
 1. **Android** (main)
 2. iOS
-3. Web (newbie)
+3. ~~Web (newbie)~~
 
 
 
@@ -22,7 +22,7 @@
 1. **Kotlin**, Java
 2. Javascript, Typescript
 3. Swift
-4. Html, Css
+4. ~~Html, Css~~
 
 
 
