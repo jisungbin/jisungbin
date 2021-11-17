@@ -29,6 +29,7 @@
 # 📚 Main project
 
 [![GitMessengerBot](https://github-readme-stats.vercel.app/api/pin/?username=jisungbin&repo=wip-projects)](https://github.com/jisungbin/wip-projects)
+[![ReadyForToss](https://github-readme-stats.vercel.app/api/pin/?username=jisungbin&repo=ready-for-toss)](https://github.com/jisungbin/ready-for-toss)
 
 
 
