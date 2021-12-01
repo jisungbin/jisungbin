@@ -5,7 +5,7 @@
 # 🎖️ Profile
 
 ![](https://github-readme-stats.vercel.app/api?username=jisungbin&show_icons=true&count_private=true&include_all_commits=true) <br/>
-<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sungbin5304)](https://solved.ac/sungbin5304/) -->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sungbin5304)](https://solved.ac/sungbin5304/)
 
 
 
@@ -21,7 +21,7 @@
 
 1. **Kotlin**, Java
 2. Swift
-3. Javascript, Typescript
+3. Typescript, Javascript
 4. ~~Html, Css~~
 
 
