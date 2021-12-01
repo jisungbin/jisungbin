@@ -12,8 +12,8 @@
 # 🔥 Developable platform
 
 1. **Android** (main)
-2. iOS
-3. ~~Web (newbie)~~
+2. iOS (newbie)
+3. ~~Web~~
 
 
 
