@@ -51,7 +51,7 @@
 2. 2022년 드로이드나이츠 발표해보기
 5. 대졸하고 카카오 가기 (그 후 네이버)
 4. 5sos, the weeknd, ariana grande 콘서트 가기
-5. [GDE Android 지원이라도 해보기](https://github.com/jisungbin/ready-for-gde)
+5. [GDE Android 되기](https://github.com/jisungbin/ready-for-gde)
 <!--
 4. 세미나 발표자 되기 (2022년 드로이드나이츠 발표해보기)
 5. 기술서적 출판 (가능???)
