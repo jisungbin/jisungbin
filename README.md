@@ -12,27 +12,20 @@
 
 
 
-# 🔥 Developable platform
+# 🔥 Skill & Platform
 
-1. **Android** (main)
-2. iOS (newbie)
-3. ~~Web~~
+![](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) ![](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
+![](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) ![](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 
-
-# 🔧 Usable languages
-
-1. **Kotlin**, Java
-2. Swift
-3. Typescript, Javascript
-4. ~~Html, Css~~
+![](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white) ![](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
 
 
-# 📚 Main project
+# 📚 Lastest Articles
 
-[![GitMessengerBot](https://github-readme-stats.vercel.app/api/pin/?username=jisungbin&repo=wip-projects)](https://github.com/jisungbin/wip-projects)
-[![ReadyForToss](https://github-readme-stats.vercel.app/api/pin/?username=jisungbin&repo=ready-for-toss)](https://github.com/jisungbin/ready-for-toss)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 
