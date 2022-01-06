@@ -25,6 +25,11 @@
 # 📚 Lastest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [안드로이드 Manifest에서 local.properties 사용하기](https://sungbin.land/manifest%EC%97%90%EC%84%9C-api-key%EA%B0%92-%EC%88%A8%EA%B8%B0%EA%B8%B0-41942548815d?source=rss-32f8b2abeab9------2)
+- [안드로이드 상태바, 네비게이션바 색상 쉽게 변경하기](https://sungbin.land/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%83%81%ED%83%9C%EB%B0%94-%EB%84%A4%EB%B9%84%EA%B2%8C%EC%9D%B4%EC%85%98%EB%B0%94-%EC%83%89%EC%83%81-%EC%89%BD%EA%B2%8C-%EB%B3%80%EA%B2%BD%ED%95%98%EA%B8%B0-3be1520c0c41?source=rss-32f8b2abeab9------2)
+- [모바일 개발자를 위한 카카오톡 오픈 채팅방](https://sungbin.land/%EB%AA%A8%EB%B0%94%EC%9D%BC-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1-%EC%98%A4%ED%94%88-%EC%B1%84%ED%8C%85%EB%B0%A9-caa739428f26?source=rss-32f8b2abeab9------2)
+- [repository, datasource, business-logic 자세히 알아보기](https://sungbin.land/repository-datasource-business-logic-%EC%9E%90%EC%84%B8%ED%9E%88-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-e1a07701b972?source=rss-32f8b2abeab9------2)
+- [트리의 지름 구하기 &lpar;알고리즘&rpar;](https://jisungbin.medium.com/%ED%8A%B8%EB%A6%AC%EC%9D%98-%EC%A7%80%EB%A6%84-%EA%B5%AC%ED%95%98%EA%B8%B0-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-818eb1c14041?source=rss-32f8b2abeab9------2)
 <!-- BLOG-POST-LIST:END -->
 
 
