@@ -49,7 +49,7 @@
 1. [토스팀 합류 준비하는거 중간에 포기하지 않기](https://github.com/jisungbin/ready-for-toss)
 2. 2022년 드로이드나이츠 발표해보기
 5. 대졸하고 카카오 가기 (그 후 네이버)
-4. 5sos, the weeknd, ariana grande, troye sivan, mae muller, anne-marie 콘서트 가기
+4. 5sos, mae muller, anne-marie 콘서트 가기
 5. [GDE Android 되기](https://github.com/jisungbin/ready-for-gde)
 
 -----
