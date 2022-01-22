@@ -26,11 +26,11 @@
 # 📚 Lastest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [MVVM Pattern vs AAC ViewModel](https://sungbin.land/mvvm-pattern-vs-aac-viewmodel-5e50b41a1fab?source=rss-32f8b2abeab9------2)
 - [안드로이드12의 새로운 디자인 시스템: Material You](https://sungbin.land/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C12%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C-material-you-b0c4714fa6ed?source=rss-32f8b2abeab9------2)
 - [안드로이드12 스플래시 대응하기](https://sungbin.land/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C12-%EC%8A%A4%ED%94%8C%EB%9E%98%EC%8B%9C-%EB%8C%80%EC%9D%91%ED%95%98%EA%B8%B0-1729f69dc33f?source=rss-32f8b2abeab9------2)
 - [안드로이드 tools 속성 200배 활용하기](https://sungbin.land/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-tools-%EC%86%8D%EC%84%B1-200%EB%B0%B0-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0-4d42875e4f58?source=rss-32f8b2abeab9------2)
 - [깃허브 한 레포에 프로젝트 여러개 올리기](https://jisungbin.medium.com/%EA%B9%83%ED%97%88%EB%B8%8C-%ED%95%9C-%EB%A0%88%ED%8F%AC%EC%97%90-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%97%AC%EB%9F%AC%EA%B0%9C-%EC%98%AC%EB%A6%AC%EA%B8%B0-dc5a5c3d2117?source=rss-32f8b2abeab9------2)
-- [안드로이드 WindowInsets으로 키보드 애니메이션 구현하기 &lpar;2&rpar;](https://sungbin.land/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-windowinsets%EC%9C%BC%EB%A1%9C-%ED%82%A4%EB%B3%B4%EB%93%9C-%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-2-fcfc87683401?source=rss-32f8b2abeab9------2)
 <!-- BLOG-POST-LIST:END -->
 
 
