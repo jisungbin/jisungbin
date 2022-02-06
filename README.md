@@ -5,9 +5,9 @@
 # 🎖️ Profile
 
 [![github](https://github-readme-stats.vercel.app/api?username=jisungbin&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/jisungbin) <br/>
-[![solved.ac](http://mazandi.herokuapp.com/api?handle=sungbin5304&theme=warm)](https://solved.ac/sungbin5304/)
+<!-- [![solved.ac](http://mazandi.herokuapp.com/api?handle=sungbin5304&theme=warm)](https://solved.ac/sungbin5304/)
 
-> 백준 실력 골드를 향해..~ 영차 영차!
+> 백준 실력 골드를 향해..~ 영차 영차! -->
 
 
 
