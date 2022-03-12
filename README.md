@@ -26,11 +26,11 @@
 # 📚 Lastest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [CI 에 .gitignore 포함 시키기](https://jisungbin.medium.com/ci-%EC%97%90-gitignore-%ED%8F%AC%ED%95%A8-%EC%8B%9C%ED%82%A4%EA%B8%B0-26d621891da6?source=rss-32f8b2abeab9------2)
+- [Github Actions 으로 안드로이드 CI/CD 구축하기](https://sungbin.land/github-actions-%EC%9C%BC%EB%A1%9C-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-ci-cd-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-1aaaa6595c4a?source=rss-32f8b2abeab9------2)
+- [ktlint, detekt 으로 코드 퀄리티 향상시키기](https://sungbin.land/ktlint-detekt-%EC%9C%BC%EB%A1%9C-%EC%BD%94%EB%93%9C-%ED%80%84%EB%A6%AC%ED%8B%B0-%ED%96%A5%EC%83%81%EC%8B%9C%ED%82%A4%EA%B8%B0-a085c7eba2cd?source=rss-32f8b2abeab9------2)
 - [kotlin dokka 로 문서 자동 생성하기](https://jisungbin.medium.com/kotlin-dokka-%EB%A1%9C-%EB%AC%B8%EC%84%9C-%EC%9E%90%EB%8F%99-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0-84487e7e9f4?source=rss-32f8b2abeab9------2)
 - [코틀린 by 키워드 알아보기](https://jisungbin.medium.com/%EC%BD%94%ED%8B%80%EB%A6%B0-by-%ED%82%A4%EC%9B%8C%EB%93%9C-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-54aa7252febb?source=rss-32f8b2abeab9------2)
-- [Lottie 5.0 의 새로운 기능](https://sungbin.land/lottie-5-0-%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%EA%B8%B0%EB%8A%A5-1544f6a13db8?source=rss-32f8b2abeab9------2)
-- [누가 내 앱의 용량을 많이 차지하고 있을까?](https://sungbin.land/%EB%88%84%EA%B0%80-%EB%82%B4-%EC%95%B1%EC%9D%98-%EC%9A%A9%EB%9F%89%EC%9D%84-%EB%A7%8E%EC%9D%B4-%EC%B0%A8%EC%A7%80%ED%95%98%EA%B3%A0-%EC%9E%88%EC%9D%84%EA%B9%8C-3f2529200024?source=rss-32f8b2abeab9------2)
-- [Android 13 새로운 기능들 살펴보기](https://sungbin.land/android-13-%EC%83%88%EB%A1%9C%EC%9A%B4-%EA%B8%B0%EB%8A%A5%EB%93%A4-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0-e0620fc4bd97?source=rss-32f8b2abeab9------2)
 <!-- BLOG-POST-LIST:END -->
 
 
