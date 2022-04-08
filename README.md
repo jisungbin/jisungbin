@@ -26,11 +26,11 @@
 # 📚 Lastest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [토스팀에 다녀왔다.](https://jisungbin.medium.com/%ED%86%A0%EC%8A%A4%ED%8C%80%EC%97%90-%EB%8B%A4%EB%85%80%EC%99%94%EB%8B%A4-9fdede579aba?source=rss-32f8b2abeab9------2)
 - [Jetpack Compose Surface 에서 background brush 사용하기](https://sungbin.land/jetpack-compose-surface-%EC%97%90%EC%84%9C-background-brush-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-9e0974beefe0?source=rss-32f8b2abeab9------2)
 - [Jetpack Compose FadingEdge 구현하기](https://sungbin.land/jetpack-compose-fadingedge-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-da5dddbebd67?source=rss-32f8b2abeab9------2)
 - [Jetpack Compose custom modifier 만들기](https://sungbin.land/jetpack-compose-custom-modifier-%EB%A7%8C%EB%93%A4%EA%B8%B0-25e25b68ef7a?source=rss-32f8b2abeab9------2)
 - [토스팀에서 “먼저” 연락이 왔다.](https://jisungbin.medium.com/%ED%86%A0%EC%8A%A4%ED%8C%80%EC%97%90%EC%84%9C-%EB%A8%BC%EC%A0%80-%EC%97%B0%EB%9D%BD%EC%9D%B4-%EC%99%94%EB%8B%A4-241f74d24489?source=rss-32f8b2abeab9------2)
-- [코틀린 SAM 변환 쉽게 구현하기](https://jisungbin.medium.com/%EC%BD%94%ED%8B%80%EB%A6%B0-sam-%EB%B3%80%ED%99%98-%EC%89%BD%EA%B2%8C-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-3055033b495e?source=rss-32f8b2abeab9------2)
 <!-- BLOG-POST-LIST:END -->
 
 
