@@ -42,11 +42,11 @@
 
    > 긴장해서 인지 발음이 뭉개진다.. [[발표 아티클]](https://sungbin.land/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-windowinsets%EB%A1%9C-%ED%82%A4%EB%B3%B4%EB%93%9C-%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-1-b6452ed44bc8)
 
-3. Jetpack Compose internals 
+3. Jetpack Compose internals (제목 미정)
 
    > 2022년 드로이드나이츠 발표 예정
 
-4. 우리가 몰랐던 코루틴
+4. 우리가 몰랐던 코루틴 (제목 미정)
 
    > 6월 25일 DDD 세미나 발표 예정
 
