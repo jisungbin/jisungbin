@@ -44,7 +44,7 @@
 # 🔗 Link
 
 1. [Portfolio](https://jisungbin.notion.site/jisungbin/84d547d8f13d445aa0cec8c526e3f803) (미완)
-2. [Instagram](https://www.instagram.com/sungbin__5304)
+2. [Instagram](https://www.instagram.com/castle__empty/)
 3. [KakaoTalk](https://open.kakao.com/me/duck__bin)
 
 
