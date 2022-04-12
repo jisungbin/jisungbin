@@ -14,6 +14,8 @@
 
 ![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
+
+
 ### Hobby (sub skill)
 
 ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/Rust-FFF?style=for-the-badge&logo=rust&logoColor=black)
@@ -29,7 +31,9 @@
 - [Jetpack Compose Surface 에서 background brush 사용하기](https://sungbin.land/jetpack-compose-surface-%EC%97%90%EC%84%9C-background-brush-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-9e0974beefe0?source=rss-32f8b2abeab9------2)
 - [Jetpack Compose FadingEdge 구현하기](https://sungbin.land/jetpack-compose-fadingedge-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-da5dddbebd67?source=rss-32f8b2abeab9------2)
 - [Jetpack Compose custom modifier 만들기](https://sungbin.land/jetpack-compose-custom-modifier-%EB%A7%8C%EB%93%A4%EA%B8%B0-25e25b68ef7a?source=rss-32f8b2abeab9------2)
-  <!-- BLOG-POST-LIST:END -->
+
+<!-- BLOG-POST-LIST:END -->
+
 
 
 # 🎤 Speak
@@ -44,7 +48,7 @@
 # 🔗 Link
 
 1. [Portfolio](https://jisungbin.notion.site/jisungbin/84d547d8f13d445aa0cec8c526e3f803) (미완)
-2. [Instagram](https://www.instagram.com/castle__empty/)
+2. [Instagram](https://www.instagram.com/castle__empty)
 3. [KakaoTalk](https://open.kakao.com/me/duck__bin)
 
 
@@ -57,7 +61,6 @@
 3. 대졸하고 카카오 가기 (그 후 네이버)
 4. 5sos, mae muller, anne-marie 콘서트 가기
 5. [GDE Android 되기](https://github.com/jisungbin/ready-for-gde)
-
 
 -----
 
