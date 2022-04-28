@@ -49,14 +49,6 @@
 
 
 
-# 💡 Goals
-
-0. **토스 지원할 자신감 만들기** (+뱅샐, 당근)
-1. [토스팀 합류 준비하는거 중간에 포기하지 않기](https://github.com/jisungbin/ready-for-toss)
-2. 대졸하고 카카오 가기 (그 후 네이버)
-3. 5sos, mae muller, anne-marie 콘서트 가기
-
-
 -----
 
 # 🤗 Happy Coding :)
