@@ -2,25 +2,8 @@
 
 -----
 
-# 🎖️ Profile
 
-[![github](https://github-readme-stats.vercel.app/api?username=jisungbin&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/jisungbin) 
-
-
-
-# 🔥 Skill
-
-![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-
-
-
-### Hobby
-
-![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/Rust-FFF?style=for-the-badge&logo=rust&logoColor=black)
-
-
-
-# 📚 Lastest Articles
+### 📚 Lastest Articles
 
 <!-- BLOG-POST-LIST:START -->
 - [Jetpack Compose 분석하기 — 목차](https://sungbin.land/jetpack-compose-%EB%B6%84%EC%84%9D%ED%95%98%EA%B8%B0-%EB%AA%A9%EC%B0%A8-9d0c26d2efdc?source=rss-32f8b2abeab9------2)
@@ -32,7 +15,7 @@
 
 
 
-# 🎤 Speak
+### 🎤 Speak
 
 1. 모바일 UI 개발의 새로운 혁명 (OP.GG 해커톤 1기 세미나) [[발표 아티클]](https://sungbin.land/%EB%AA%A8%EB%B0%94%EC%9D%BC-ui-%EA%B0%9C%EB%B0%9C%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%ED%98%81%EB%AA%85-739c76a501b1)
 2. [Awesome한 키보드 애니메이션](https://youtu.be/k_s3gaQWXos) (CMC 9기 세미나) [[발표 아티클]](https://sungbin.land/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-windowinsets%EB%A1%9C-%ED%82%A4%EB%B3%B4%EB%93%9C-%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-1-b6452ed44bc8)
@@ -40,15 +23,6 @@
 4. 우리가 몰랐던 코루틴 [발표 예정]
 
 
-
-# 🔗 SNS
-
-1. [Instagram](https://www.instagram.com/castle__empty)
-2. [Facebook](https://www.facebook.com/jisungbin)
-3. [KakaoTalk](https://open.kakao.com/me/duck__bin)
-
-
-
 -----
 
-# 🤗 Happy Coding :)
+### 🤗 Happy Coding :)
