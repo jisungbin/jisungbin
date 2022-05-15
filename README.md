@@ -6,11 +6,11 @@
 ### 📚 Lastest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Optimizing Recomposition in Jetpack Compose: donut-hole skipping](https://sungbin.land/optimizing-recomposition-in-jetpack-compose-donut-hole-skipping-6baf22f059bb?source=rss-32f8b2abeab9------2)
 - [Unit Testing: Principles, Practices, and Patterns 정리](https://jisungbin.medium.com/unit-testing-principles-practices-and-patterns-%EC%A0%95%EB%A6%AC-2e19b0acea76?source=rss-32f8b2abeab9------2)
 - [A little deep dive into Jetpack Compose Stability](https://sungbin.land/a-deep-dive-into-jetpack-compose-stability-38b5b109da71?source=rss-32f8b2abeab9------2)
 - [토스팀에 다녀왔다.](https://jisungbin.medium.com/%ED%86%A0%EC%8A%A4%ED%8C%80%EC%97%90-%EB%8B%A4%EB%85%80%EC%99%94%EB%8B%A4-9fdede579aba?source=rss-32f8b2abeab9------2)
 - [Jetpack Compose Surface 에서 background brush 사용하기](https://sungbin.land/jetpack-compose-surface-%EC%97%90%EC%84%9C-background-brush-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-9e0974beefe0?source=rss-32f8b2abeab9------2)
-- [Jetpack Compose FadingEdge 구현하기](https://sungbin.land/jetpack-compose-fadingedge-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-da5dddbebd67?source=rss-32f8b2abeab9------2)
 <!-- BLOG-POST-LIST:END -->
 
 
