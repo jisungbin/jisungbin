@@ -6,11 +6,11 @@
 ### 📚 Lastest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Jetpack Compose’s data storage system: Slot Table, Change List](https://sungbin.land/jetpack-composes-data-storage-system-slot-table-change-list-82e92d274c32?source=rss-32f8b2abeab9------2)
+- [Gap Buffer 자료구조 간단히 알아보기](https://jisungbin.medium.com/gap-buffer-%EA%B0%84%EB%8B%A8%ED%9E%88-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-e1ed40649af9?source=rss-32f8b2abeab9------2)
 - [A fully diving into Jetpack Compose compiler](https://sungbin.land/a-fully-diving-into-jetpack-compose-compiler-4f0fd7bead0c?source=rss-32f8b2abeab9------2)
 - [How Jetpack Compose draws the UI: Materialize](https://sungbin.land/how-jetpack-compose-draws-the-ui-materialize-c3a0374ce56?source=rss-32f8b2abeab9------2)
 - [Optimizing Recomposition in Jetpack Compose: donut-hole skipping](https://sungbin.land/optimizing-recomposition-in-jetpack-compose-donut-hole-skipping-6baf22f059bb?source=rss-32f8b2abeab9------2)
-- [Unit Testing: Principles, Practices, and Patterns 정리](https://jisungbin.medium.com/unit-testing-principles-practices-and-patterns-%EC%A0%95%EB%A6%AC-2e19b0acea76?source=rss-32f8b2abeab9------2)
-- [Jetpack Compose 분석하기 — 목차](https://sungbin.land/jetpack-compose-%EB%B6%84%EC%84%9D%ED%95%98%EA%B8%B0-%EB%AA%A9%EC%B0%A8-9d0c26d2efdc?source=rss-32f8b2abeab9------2)
 <!-- BLOG-POST-LIST:END -->
 
 
