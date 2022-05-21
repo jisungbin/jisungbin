@@ -17,7 +17,7 @@
 
 ### 🎤 Speak
 
-1. [모바일 UI 개발의 새로운 혁명: Jetpack Compose와 SwiftUI를 이용한 새로운 UI 제작](https://youtu.be/GNQNbOs9NrA) (제 1회 OP.GG 해커톤 세미나) [[발표 아티클]](https://sungbin.land/%EB%AA%A8%EB%B0%94%EC%9D%BC-ui-%EA%B0%9C%EB%B0%9C%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%ED%98%81%EB%AA%85-739c76a501b1)
+1. [모바일 UI 개발의 새로운 혁명](https://youtu.be/GNQNbOs9NrA) (제 1회 OP.GG 해커톤 세미나) [[발표 아티클]](https://sungbin.land/%EB%AA%A8%EB%B0%94%EC%9D%BC-ui-%EA%B0%9C%EB%B0%9C%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%ED%98%81%EB%AA%85-739c76a501b1)
 2. [Awesome한 키보드 애니메이션](https://youtu.be/k_s3gaQWXos) (CMC 9기 세미나) [[발표 아티클]](https://sungbin.land/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-windowinsets%EB%A1%9C-%ED%82%A4%EB%B3%B4%EB%93%9C-%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-1-b6452ed44bc8)
 3. Jetpack Compose internals (2022년 드로이드나이츠) [발표 예정]
 4. 우리가 몰랐던 코루틴 [발표 예정]
