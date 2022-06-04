@@ -1,4 +1,4 @@
-# <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"> Hi! [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjisungbin%2Fjisungbin&count_bg=%2396D667&title_bg=%23555555&icon=ghostery.svg&icon_color=%23FFFFFF&title=see+my+profile&edge_flat=false)](https://github.com/jisungbin/fashion-guide) [![wakatime](https://wakatime.com/badge/user/2da851dd-14d7-47dd-821a-7d902e52c1c2.svg)](https://github.com/jisungbin/univ)
+# <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="3%" alt="hi"> Hi! [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjisungbin%2Fjisungbin&count_bg=%2396D667&title_bg=%23555555&icon=ghostery.svg&icon_color=%23FFFFFF&title=see+my+profile&edge_flat=false)](https://github.com/jisungbin/fashion-guide) [![wakatime](https://wakatime.com/badge/user/2da851dd-14d7-47dd-821a-7d902e52c1c2.svg)](https://github.com/jisungbin/univ)
 
 -----
 
