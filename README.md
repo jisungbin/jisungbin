@@ -6,10 +6,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Jetpack Compose가 UI 를 그리기 까지의 여정](https://sungbin.land/jetpack-compose%EA%B0%80-ui-%EB%A5%BC-%EA%B7%B8%EB%A6%AC%EA%B8%B0-%EA%B9%8C%EC%A7%80%EC%9D%98-%EC%97%AC%EC%A0%95-967589afa45?source=rss-32f8b2abeab9------2)
-- [Jetpack Compose 스냅샷 시스템 소개](https://sungbin.land/jetpack-compose-%EC%8A%A4%EB%83%85%EC%83%B7-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%86%8C%EA%B0%9C-279b1f61d382?source=rss-32f8b2abeab9------2)
-- [Jetpack Compose’s data storage system: Slot Table, Change List](https://sungbin.land/jetpack-composes-data-storage-system-slot-table-change-list-82e92d274c32?source=rss-32f8b2abeab9------2)
+- [Jetpack Compose 스냅샷 시스템](https://sungbin.land/jetpack-compose-%EC%8A%A4%EB%83%85%EC%83%B7-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%86%8C%EA%B0%9C-279b1f61d382?source=rss-32f8b2abeab9------2)
+- [Jetpack Compose 데이터 저장 시스템](https://sungbin.land/jetpack-composes-data-storage-system-slot-table-change-list-82e92d274c32?source=rss-32f8b2abeab9------2)
 - [Gap Buffer 자료구조 간단히 알아보기](https://jisungbin.medium.com/gap-buffer-%EA%B0%84%EB%8B%A8%ED%9E%88-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-e1ed40649af9?source=rss-32f8b2abeab9------2)
-- [A fully diving into Jetpack Compose compiler](https://sungbin.land/a-fully-diving-into-jetpack-compose-compiler-4f0fd7bead0c?source=rss-32f8b2abeab9------2)
+- [Jetpack Compose 컴파일러가 부리는 마법 완전히 파해치기](https://sungbin.land/a-fully-diving-into-jetpack-compose-compiler-4f0fd7bead0c?source=rss-32f8b2abeab9------2)
 <!-- BLOG-POST-LIST:END -->
 
 
