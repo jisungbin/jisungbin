@@ -5,11 +5,11 @@
 ### 📚 Lastest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [뒤늦게 작성해보는 CMC 9기 회고](https://jisungbin.medium.com/%EB%92%A4%EB%8A%A6%EA%B2%8C-%EC%9E%91%EC%84%B1%ED%95%B4%EB%B3%B4%EB%8A%94-cmc-9%EA%B8%B0-%ED%9A%8C%EA%B3%A0-e88ccfe4a433?source=rss-32f8b2abeab9------2)
 - [안드로이드 기본기 분석하기 — 목차](https://sungbin.land/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B8%B0%EB%B3%B8%EA%B8%B0-%EB%B6%84%EC%84%9D%ED%95%98%EA%B8%B0-%EB%AA%A9%EC%B0%A8-677a54ef1146?source=rss-32f8b2abeab9------2)
 - [Jetpack Compose가 UI 를 그리기 까지의 여정](https://sungbin.land/jetpack-compose%EA%B0%80-ui-%EB%A5%BC-%EA%B7%B8%EB%A6%AC%EA%B8%B0-%EA%B9%8C%EC%A7%80%EC%9D%98-%EC%97%AC%EC%A0%95-967589afa45?source=rss-32f8b2abeab9------2)
 - [Jetpack Compose 스냅샷 시스템](https://sungbin.land/jetpack-compose-%EC%8A%A4%EB%83%85%EC%83%B7-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%86%8C%EA%B0%9C-279b1f61d382?source=rss-32f8b2abeab9------2)
 - [Jetpack Compose 데이터 저장 시스템](https://sungbin.land/jetpack-composes-data-storage-system-slot-table-change-list-82e92d274c32?source=rss-32f8b2abeab9------2)
-- [Gap Buffer 자료구조 간단히 알아보기](https://jisungbin.medium.com/gap-buffer-%EA%B0%84%EB%8B%A8%ED%9E%88-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-e1ed40649af9?source=rss-32f8b2abeab9------2)
 <!-- BLOG-POST-LIST:END -->
 
 
