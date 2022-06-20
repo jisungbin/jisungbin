@@ -5,11 +5,11 @@
 ### 📚 Lastest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Jetpack Compose, 어디까지 알고 있을까? + 미공개 슬라이드 추가 및 약간의 후기](https://jisungbin.medium.com/jetpack-compose-%E1%84%8B%E1%85%A5%E1%84%83%E1%85%B5%E1%84%81%E1%85%A1%E1%84%8C%E1%85%B5-%E1%84%8B%E1%85%A1%E1%86%AF%E1%84%80%E1%85%A9-%E1%84%8B%E1%85%B5%E1%86%BB%E1%84%8B%E1%85%B3%E1%86%AF%E1%84%81%E1%85%A1-%EB%AF%B8%EA%B3%B5%EA%B0%9C-%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C-%EC%B6%94%EA%B0%80-%EB%B0%8F-%EC%95%BD%EA%B0%84%EC%9D%98-%ED%9B%84%EA%B8%B0-ff35cd43e4c3?source=rss-32f8b2abeab9------2)
 - [안드로이드 기본기 분석하기 — 목차](https://sungbin.land/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B8%B0%EB%B3%B8%EA%B8%B0-%EB%B6%84%EC%84%9D%ED%95%98%EA%B8%B0-%EB%AA%A9%EC%B0%A8-677a54ef1146?source=rss-32f8b2abeab9------2)
 - [Jetpack Compose가 UI 를 그리기 까지의 여정](https://sungbin.land/jetpack-compose%EA%B0%80-ui-%EB%A5%BC-%EA%B7%B8%EB%A6%AC%EA%B8%B0-%EA%B9%8C%EC%A7%80%EC%9D%98-%EC%97%AC%EC%A0%95-967589afa45?source=rss-32f8b2abeab9------2)
 - [Jetpack Compose 스냅샷 시스템](https://sungbin.land/jetpack-compose-%EC%8A%A4%EB%83%85%EC%83%B7-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%86%8C%EA%B0%9C-279b1f61d382?source=rss-32f8b2abeab9------2)
 - [Jetpack Compose 데이터 저장 시스템](https://sungbin.land/jetpack-composes-data-storage-system-slot-table-change-list-82e92d274c32?source=rss-32f8b2abeab9------2)
-- [Gap Buffer 자료구조 간단히 알아보기](https://jisungbin.medium.com/gap-buffer-%EA%B0%84%EB%8B%A8%ED%9E%88-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-e1ed40649af9?source=rss-32f8b2abeab9------2)
 <!-- BLOG-POST-LIST:END -->
 
 
