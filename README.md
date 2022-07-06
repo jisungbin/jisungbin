@@ -5,7 +5,7 @@
 ### 📚 Lastest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Jetpack Compose’s new layout: LookaheadLayout](https://jisungbin.medium.com/introducing-jetpack-composes-new-layout-lookaheadlayout-eb30406f715?source=rss-32f8b2abeab9------2)
+- [Introducing Jetpack Compose’s New Layout: “LookaheadLayout”](https://betterprogramming.pub/introducing-jetpack-composes-new-layout-lookaheadlayout-eb30406f715?source=rss-32f8b2abeab9------2)
 - [Jetpack Compose 의 새로운 레이아웃, LookaheadLayout 알아보기](https://sungbin.land/jetpack-compose-%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83-lookaheadlayout-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-d4a98aac588e?source=rss-32f8b2abeab9------2)
 - [NAVER-Map-Compose 분석](https://sungbin.land/naver-map-compose-%EB%B6%84%EC%84%9D-c4a6709149a7?source=rss-32f8b2abeab9------2)
 - [기본적인 인텔리제이 플러그인 추천](https://jisungbin.medium.com/%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9D%B8-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8-%EC%B6%94%EC%B2%9C-6768106af121?source=rss-32f8b2abeab9------2)
