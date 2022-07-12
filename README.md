@@ -5,11 +5,11 @@
 ### 📚 Lastest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [플러터에서만 되던 hot-reload, 컴포즈는 어떻게 구현했을까?](https://sungbin.land/%ED%94%8C%EB%9F%AC%ED%84%B0%EC%97%90%EC%84%9C%EB%A7%8C-%EB%90%98%EB%8D%98-hot-reload-%EC%BB%B4%ED%8F%AC%EC%A6%88%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B5%AC%ED%98%84%ED%96%88%EC%9D%84%EA%B9%8C-2ab37c45ed68?source=rss-32f8b2abeab9------2)
 - [Jetpack Compose 스냅샷 시스템 분석](https://sungbin.land/jetpack-compose-%EC%8A%A4%EB%83%85%EC%83%B7-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EB%B6%84%EC%84%9D-c298f96dec64?source=rss-32f8b2abeab9------2)
 - [@Composable 좀 더 자세히 보기](https://sungbin.land/composable-%EC%A2%80-%EB%8D%94-%EC%9E%90%EC%84%B8%ED%9E%88-%EB%B3%B4%EA%B8%B0-a68b7c918485?source=rss-32f8b2abeab9------2)
 - [성빈랜드의 과거와 미래 &lpar;1&rpar;](https://sungbin.land/%EC%84%B1%EB%B9%88%EB%9E%9C%EB%93%9C%EC%9D%98-%EA%B3%BC%EA%B1%B0%EC%99%80-%EB%AF%B8%EB%9E%98-1-9471f0fcfd57?source=rss-32f8b2abeab9------2)
 - [How to Get Activity From Jetpack Compose](https://betterprogramming.pub/how-to-get-activity-from-jetpack-compose-d0af406d534f?source=rss-32f8b2abeab9------2)
-- [Jetpack Compose 에서 액티비티를 가져오는 방법들](https://sungbin.land/jetpack-compose-%EC%97%90%EC%84%9C-%EC%95%A1%ED%8B%B0%EB%B9%84%ED%8B%B0%EB%A5%BC-%EA%B0%80%EC%A0%B8%EC%98%A4%EB%8A%94-%EC%B5%9C%EC%84%A0%EC%9D%98-%EB%B0%A9%EB%B2%95%EB%93%A4-a806f746713b?source=rss-32f8b2abeab9------2)
 <!-- BLOG-POST-LIST:END -->
 
 
