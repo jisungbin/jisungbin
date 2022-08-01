@@ -5,11 +5,11 @@
 ### 📚 Lastest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Jetpack Compose, 다양한 CompositionLocal 모음](https://sungbin.land/jetpack-compose-%EC%9A%B0%EB%A6%AC%EA%B0%80-%EB%AA%B0%EB%9E%90%EB%8D%98-compositionlocal-%EB%93%A4-343b1ea41e3a?source=rss-32f8b2abeab9------2)
 - [Jetpack Compose 컴파일러 디버깅](https://sungbin.land/jetpack-compose-%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC-%EB%94%94%EB%B2%84%EA%B9%85-cf21ce431387?source=rss-32f8b2abeab9------2)
 - [Jetpack Compose 최고의 성능을 위한 Best Practice](https://sungbin.land/jetpack-compose-%EC%B5%9C%EA%B3%A0%EC%9D%98-%EC%84%B1%EB%8A%A5%EC%9D%84-%EC%9C%84%ED%95%9C-best-practice-55d6ee723a86?source=rss-32f8b2abeab9------2)
 - [덕키와 함께 하실 안드로이드 개발자 분을 모집합니다!](https://medium.com/duckie-stories/%EB%8D%95%ED%82%A4%EC%99%80-%ED%95%A8%EA%BB%98-%ED%95%98%EC%8B%A4-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%B6%84%EC%9D%84-%EB%AA%A8%EC%A7%91%ED%95%A9%EB%8B%88%EB%8B%A4-142dd2db888f?source=rss-32f8b2abeab9------2)
 - [Jetpack Compose 런타임에서 일어나는 마법 완전히 파해치기 — doCompose](https://sungbin.land/jetpack-compose-%EB%9F%B0%ED%83%80%EC%9E%84%EC%97%90%EC%84%9C-%EC%9D%BC%EC%96%B4%EB%82%98%EB%8A%94-%EB%A7%88%EB%B2%95-%EC%99%84%EC%A0%84%ED%9E%88-%ED%8C%8C%ED%95%B4%EC%B9%98%EA%B8%B0-composeinitial-4c4c306c0a8c?source=rss-32f8b2abeab9------2)
-- [Jetpack Compose RememberObserver 소개](https://sungbin.land/jetpack-compose-rememberobserver-%EC%86%8C%EA%B0%9C-8776c904a3c8?source=rss-32f8b2abeab9------2)
 <!-- BLOG-POST-LIST:END -->
 
 
