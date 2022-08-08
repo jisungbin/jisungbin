@@ -7,11 +7,11 @@
 ### 📚 Lastest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Jetpack Compose 람다 최적화에 대한 고찰](https://sungbin.land/jetpack-compose-%EB%9E%8C%EB%8B%A4-%EC%B5%9C%EC%A0%81%ED%99%94%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%A0%EC%B0%B0-b8854e38067a?source=rss-32f8b2abeab9------2)
+- [Jetpack Compose 기본 용어들 제대로 알아보기](https://sungbin.land/jetpack-compose-%EA%B8%B0%EB%B3%B8-%EC%9A%A9%EC%96%B4%EB%93%A4-%EC%A0%9C%EB%8C%80%EB%A1%9C-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-356f4347c1a8?source=rss-32f8b2abeab9------2)
 - [Jetpack Compose + WindowInsets =](https://sungbin.land/jetpack-compose-windowinsets-fa8f286f092b?source=rss-32f8b2abeab9------2)
 - [Jetpack Compose 애니메이션 마스터](https://sungbin.land/jetpack-compose-%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98-%EB%A7%88%EC%8A%A4%ED%84%B0-efbe5b074e03?source=rss-32f8b2abeab9------2)
 - [Dispatchers.Main.immediate 의 이해](https://jisungbin.medium.com/dispatchers-main-immediate-%EC%9D%98-%EB%8C%80%ED%95%9C-%EC%9D%B4%ED%95%B4-9f073be21e5a?source=rss-32f8b2abeab9------2)
-- [네이버, 화해 기업 초청 강연 후기](https://jisungbin.medium.com/%EB%84%A4%EC%9D%B4%EB%B2%84-%ED%99%94%ED%95%B4-%EA%B8%B0%EC%97%85-%EA%B0%95%EC%97%B0-%ED%9B%84%EA%B8%B0-4f6474918f62?source=rss-32f8b2abeab9------2)
-- [Jetpack Compose, 다양한 CompositionLocal 모음](https://sungbin.land/jetpack-compose-%EC%9A%B0%EB%A6%AC%EA%B0%80-%EB%AA%B0%EB%9E%90%EB%8D%98-compositionlocal-%EB%93%A4-343b1ea41e3a?source=rss-32f8b2abeab9------2)
 <!-- BLOG-POST-LIST:END -->
 
 
