@@ -7,7 +7,7 @@
 ### 📚 Lastest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [안드로이드 개발 경력자 분들과 커피챗 하면서 배운 점들](https://jisungbin.medium.com/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B0%9C%EB%B0%9C-%EA%B2%BD%EB%A0%A5%EC%9E%90-%EB%B6%84%EB%93%A4%EA%B3%BC-%EC%BB%A4%ED%94%BC%EC%B1%97-%ED%95%98%EB%A9%B4%EC%84%9C-%EB%B0%B0%EC%9A%B4-%EC%A0%90%EB%93%A4-bc29de503eb3?source=rss-32f8b2abeab9------2)
+- [안드로이드 개발 경력자분들과 커피챗 하면서 배운 점들](https://jisungbin.medium.com/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B0%9C%EB%B0%9C-%EA%B2%BD%EB%A0%A5%EC%9E%90-%EB%B6%84%EB%93%A4%EA%B3%BC-%EC%BB%A4%ED%94%BC%EC%B1%97-%ED%95%98%EB%A9%B4%EC%84%9C-%EB%B0%B0%EC%9A%B4-%EC%A0%90%EB%93%A4-bc29de503eb3?source=rss-32f8b2abeab9------2)
 - [Jetpack Compose 람다 최적화에 대한 고찰](https://sungbin.land/jetpack-compose-%EB%9E%8C%EB%8B%A4-%EC%B5%9C%EC%A0%81%ED%99%94%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%A0%EC%B0%B0-b8854e38067a?source=rss-32f8b2abeab9------2)
 - [Jetpack Compose 기본 용어들 제대로 알아보기](https://sungbin.land/jetpack-compose-%EA%B8%B0%EB%B3%B8-%EC%9A%A9%EC%96%B4%EB%93%A4-%EC%A0%9C%EB%8C%80%EB%A1%9C-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-356f4347c1a8?source=rss-32f8b2abeab9------2)
 - [Jetpack Compose + WindowInsets =](https://sungbin.land/jetpack-compose-windowinsets-fa8f286f092b?source=rss-32f8b2abeab9------2)
