@@ -5,11 +5,11 @@
 ### 📚 Lastest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [“Duckie” 를 소개합니다.](https://blog.duckie.team/duckie-%EB%A5%BC-%EC%86%8C%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4-70b6a06ec806?source=rss-32f8b2abeab9------2)
 - [디바이스가 필요 없는 안드로이드 UI 테스트 — Snapshot Test](https://sungbin.land/%EB%94%94%EB%B0%94%EC%9D%B4%EC%8A%A4%EA%B0%80-%ED%95%84%EC%9A%94-%EC%97%86%EB%8A%94-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-ui-%ED%85%8C%EC%8A%A4%ED%8A%B8-snapshot-test-3c90ef7516a7?source=rss-32f8b2abeab9------2)
 - [덕키의 디자인 시스템 “꽥꽥” 을 소개합니다.](https://blog.duckie.team/%EB%8D%95%ED%82%A4%EC%9D%98-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%BD%A5%EA%BD%A5-%EC%9D%84-%EC%86%8C%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4-59d962c4bf7?source=rss-32f8b2abeab9------2)
 - [Optimizing Recomposition in Jetpack Compose: Stability System](https://betterprogramming.pub/optimizing-recomposition-in-jetpack-compose-stability-system-f8ec0c92de33?source=rss-32f8b2abeab9------2)
 - [Exploring Jetpack Compose’s Hot-Reload Feature](https://betterprogramming.pub/exploring-jetpack-composes-hot-reload-feature-3fdb5fa43ba1?source=rss-32f8b2abeab9------2)
-- [안드로이드 개발 경력자분들과 커피챗 하면서 배운 점들](https://jisungbin.medium.com/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B0%9C%EB%B0%9C-%EA%B2%BD%EB%A0%A5%EC%9E%90-%EB%B6%84%EB%93%A4%EA%B3%BC-%EC%BB%A4%ED%94%BC%EC%B1%97-%ED%95%98%EB%A9%B4%EC%84%9C-%EB%B0%B0%EC%9A%B4-%EC%A0%90%EB%93%A4-bc29de503eb3?source=rss-32f8b2abeab9------2)
 <!-- BLOG-POST-LIST:END -->
 
 
