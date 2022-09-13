@@ -5,11 +5,11 @@
 ### 📚 Lastest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Continuation-Passing Style](https://jisungbin.medium.com/continuation-passing-style-863608b37c18?source=rss-32f8b2abeab9------2)
 - [Jetpack Compose 런타임에서 일어나는 마법 완전히 파해치기 — Invalidation](https://sungbin.land/jetpack-compose-%EB%9F%B0%ED%83%80%EC%9E%84%EC%97%90%EC%84%9C-%EC%9D%BC%EC%96%B4%EB%82%98%EB%8A%94-%EB%A7%88%EB%B2%95-%EC%99%84%EC%A0%84%ED%9E%88-%ED%8C%8C%ED%95%B4%EC%B9%98%EA%B8%B0-invalidation-cf87fb51a982?source=rss-32f8b2abeab9------2)
 - [[스터디] 성빈랜드에서 함께 공부하실 분들을 모집합니다](https://sungbin.land/%EC%84%B1%EB%B9%88%EB%9E%9C%EB%93%9C-%EC%B2%AB-%EC%8A%A4%ED%84%B0%EB%94%94-%EA%B3%B5%EC%A7%80-f1152f613649?source=rss-32f8b2abeab9------2)
 - [“Duckie” 를 소개합니다.](https://blog.duckie.team/duckie-%EB%A5%BC-%EC%86%8C%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4-70b6a06ec806?source=rss-32f8b2abeab9------2)
 - [디바이스가 필요 없는 안드로이드 UI 테스트 — Snapshot Test](https://sungbin.land/%EB%94%94%EB%B0%94%EC%9D%B4%EC%8A%A4%EA%B0%80-%ED%95%84%EC%9A%94-%EC%97%86%EB%8A%94-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-ui-%ED%85%8C%EC%8A%A4%ED%8A%B8-snapshot-test-3c90ef7516a7?source=rss-32f8b2abeab9------2)
-- [덕키의 디자인 시스템 “꽥꽥” 을 소개합니다.](https://blog.duckie.team/%EB%8D%95%ED%82%A4%EC%9D%98-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%BD%A5%EA%BD%A5-%EC%9D%84-%EC%86%8C%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4-59d962c4bf7?source=rss-32f8b2abeab9------2)
 <!-- BLOG-POST-LIST:END -->
 
 
