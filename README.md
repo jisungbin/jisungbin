@@ -5,11 +5,11 @@
 ### 📚 Lastest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [덕키와 함께 하실 백엔드 개발자분을 모집합니다!](https://blog.duckie.team/%EB%8D%95%ED%82%A4%EC%99%80-%ED%95%A8%EA%BB%98-%ED%95%98%EC%8B%A4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%B6%84%EC%9D%84-%EB%AA%A8%EC%A7%91%ED%95%A9%EB%8B%88%EB%8B%A4-a52109711309?source=rss-32f8b2abeab9------2)
 - [성빈랜드의 과거와 미래 &lpar;2&rpar;](https://sungbin.land/%EC%84%B1%EB%B9%88%EB%9E%9C%EB%93%9C%EC%9D%98-%EA%B3%BC%EA%B1%B0%EC%99%80-%EB%AF%B8%EB%9E%98-2-e28dbd2f0776?source=rss-32f8b2abeab9------2)
 - [안드로이드의 Resources 초기화 및 관리](https://sungbin.land/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-resources-%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A7%88%EA%B9%8C-142b990681bd?source=rss-32f8b2abeab9------2)
 - [코루틴의 CPS 구현 살펴보기](https://jisungbin.medium.com/%EC%BD%94%EB%A3%A8%ED%8B%B4%EC%9D%98-cps-%EA%B5%AC%ED%98%84-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0-7b9cd5f5c7bd?source=rss-32f8b2abeab9------2)
 - [안드로이드 Context 는 어떻게 생성될까?](https://sungbin.land/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-context-%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%83%9D%EC%84%B1%EB%90%A0%EA%B9%8C-eb4d38887eec?source=rss-32f8b2abeab9------2)
-- [Continuation-Passing Style](https://jisungbin.medium.com/continuation-passing-style-863608b37c18?source=rss-32f8b2abeab9------2)
 <!-- BLOG-POST-LIST:END -->
 
 
