@@ -5,7 +5,7 @@
 2. [Jetpack Compose, 어디까지 알고 있을까?](https://sungbin.land/jetpack-compose-%E1%84%8B%E1%85%A5%E1%84%83%E1%85%B5%E1%84%81%E1%85%A1%E1%84%8C%E1%85%B5-%E1%84%8B%E1%85%A1%E1%86%AF%E1%84%80%E1%85%A9-%E1%84%8B%E1%85%B5%E1%86%BB%E1%84%8B%E1%85%B3%E1%86%AF%E1%84%81%E1%85%A1-%EB%AF%B8%EA%B3%B5%EA%B0%9C-%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C-%EC%B6%94%EA%B0%80-%EB%B0%8F-%EC%95%BD%EA%B0%84%EC%9D%98-%ED%9B%84%EA%B8%B0-ff35cd43e4c3) (2022 찰스의 안드로이드 컨퍼런스)
     - Jetpack Compose 의 잘 알려지지 않은 기능들에 대해 소개
     - Snapshot System 파트가 발표 내용중 가장 뜨거운 반응을 보임
-3. Jetpack Compose 내부로 이해하는 최적화 비법 (2022 성빈랜드 주최 설명회) - 예정
+3. Jetpack Compose 내부로 이해하는 최적화 비법 (2022 성빈랜드 주최 설명회)
     - Jetpack Compose 의 내부 구현 원리를 설명하며 가장 효율적인 성능을 낼 수 있는 최적화 비법들 소개
     - 컴포즈를 도입하는 기업들도 많아졌고, 덕키 팀도 컴포즈를 도입하였기에 서비스 사용자에게 가장 최고의 성능을 보여주기 위해 진행함
 4. [모바일 UI 개발의 새로운 혁명](https://sungbin.land/%EB%AA%A8%EB%B0%94%EC%9D%BC-ui-%EA%B0%9C%EB%B0%9C%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%ED%98%81%EB%AA%85-739c76a501b1) (제 1회 OP.GG 해커톤 세미나)
