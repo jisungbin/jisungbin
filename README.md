@@ -8,3 +8,8 @@
 - [안드로이드 개발 경력자분들과 커피챗 하면서 배운 점들](https://jisungbin.medium.com/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B0%9C%EB%B0%9C-%EA%B2%BD%EB%A0%A5%EC%9E%90-%EB%B6%84%EB%93%A4%EA%B3%BC-%EC%BB%A4%ED%94%BC%EC%B1%97-%ED%95%98%EB%A9%B4%EC%84%9C-%EB%B0%B0%EC%9A%B4-%EC%A0%90%EB%93%A4-bc29de503eb3)
 - [Jetpack Compose 분석하기 시리즈](https://sungbin.land/jetpack-compose-%EB%B6%84%EC%84%9D%ED%95%98%EA%B8%B0-%EB%AA%A9%EC%B0%A8-9d0c26d2efdc)
 - [안드로이드/코루틴 분석하기 시리즈](https://sungbin.land/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B8%B0%EB%B3%B8%EA%B8%B0-%EB%B6%84%EC%84%9D%ED%95%98%EA%B8%B0-%EB%AA%A9%EC%B0%A8-677a54ef1146)
+
+### Featured Projects
+
+- [DUCKIE](https://github.com/duckie-team)
+- [DoneDone](https://github.com/TodayDoneDone)
