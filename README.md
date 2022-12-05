@@ -4,4 +4,4 @@
 
 #### 안드로이드 과외를 진행하고 있습니다.
 
-[@android-lecture](https://github.com/android-lecture)
+[@android-lesson](https://github.com/android-lesson)
