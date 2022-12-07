@@ -6,6 +6,6 @@
 
 **2023년 기준 보충역 병력특례**가 가능한 안드로이드 개발 직군을 찾고 있습니다. (ji@sungb.in)
 
-##### 안드로이드 과외를 진행하고 있습니다.
+#### 안드로이드 과외를 진행하고 있습니다.
 
 [@android-lesson](https://github.com/android-lesson)
