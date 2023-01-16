@@ -5,10 +5,10 @@
 
 ### I am...
 
-- Developer Experience Engineer
+- **Developer Experience Engineer**
 - User Experience Engineer
 
 ### My major is...
 
-- Android Engineer
+- **Android Engineer**
 - Kotlin Engineer
