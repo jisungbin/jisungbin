@@ -4,4 +4,4 @@
 
 > [Ji Sungbin](https://resume.sungb.in/) <sub>(korean resume)</sub>
 
-우리에게 최고의 경험을 선사하는 개발자가 되고 싶습니다.
+우리 모두에게 항상 최고의 경험을 제공하려 노력합니다.
