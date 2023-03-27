@@ -6,4 +6,4 @@
 
 이력서는 [http://resume.sungb.in](http://resume.sungb.in)에서 보실 수 있습니다.
 
-Jetpack Compose 내부 분석 시리즈를 연재하고 있으며, 네이버와 화해에서 Jetpack Compose 초청 강연을 진행하였습니다.
+[Jetpack Compose 내부 분석 시리즈](https://sungbin.land/jetpack-compose-%EB%B6%84%EC%84%9D%ED%95%98%EA%B8%B0-%EB%AA%A9%EC%B0%A8-9d0c26d2efdc)를 연재하고 있으며, [네이버와 화해에서 Jetpack Compose 초청 강연](https://speakerdeck.com/jisungbin/jetpack-compose-a-to-z-full)을 진행하였습니다.
