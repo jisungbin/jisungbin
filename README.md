@@ -7,3 +7,12 @@
 - [Project Leader & Android Engineer] [TodayDoneDone](https://github.com/TodayDoneDone)
 - [Design System Engineer] [duckie-team/quack-quack-android](https://github.com/duckie-team/quack-quack-android)
 - [Android Engineer] [Wedemy/eggeum-android](https://github.com/Wedemy/eggeum-android)
+
+### Skills
+
+- Android
+- Kotlin
+- Gradle Plugin API
+- Kotlin Symbol Processing API
+- Kotlin Compiler Plugin API
+- Jetpack Compose Runtime API
