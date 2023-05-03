@@ -16,3 +16,4 @@
 - Kotlin Symbol Processing API
 - Kotlin Compiler Plugin API
 - Jetpack Compose Runtime API
+- Android Studio Lint API
