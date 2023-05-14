@@ -2,18 +2,25 @@
 
 <a href="https://github.com/jisungbin"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=jisungbin&hide=contribs&show_icons=true&include_all_commits=true&count_private=true"/></a>
 
-### Projects
+### Maintaining Projects
 
-- [Project Leader & Android Engineer] [TodayDoneDone](https://github.com/TodayDoneDone)
-- [Design System Engineer] [duckie-team/quack-quack-android](https://github.com/duckie-team/quack-quack-android)
-- [Android Engineer] [Wedemy/eggeum-android](https://github.com/Wedemy/eggeum-android)
+- [TodayDoneDone/donedone-android](https://github.com/TodayDoneDone/donedone-android) *(project leader)*
+- [duckie-team/quack-quack-android](https://github.com/duckie-team/quack-quack-android) *(ui kit engineering)*
+- [Wedemy/eggeum-android](https://github.com/Wedemy/eggeum-android)
 
 ### Skills
 
 - Android
-- Kotlin
+- Java, Kotlin
+- TypeScript, JavaScript
 - Gradle Plugin API
 - Kotlin Symbol Processing API
 - Kotlin Compiler Plugin API
 - Jetpack Compose Runtime API
 - Android Studio Lint API
+
+### Interesting
+
+- Kotlin Multiplatform
+- Jetpack Compose Multiplatform
+- Programming Language Compiler
