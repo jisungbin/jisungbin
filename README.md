@@ -11,8 +11,7 @@
 ### Skills
 
 - Android
-- Java, Kotlin
-- TypeScript, JavaScript
+- Kotlin
 - Gradle Plugin API
 - Kotlin Symbol Processing API
 - Kotlin Compiler Plugin API
