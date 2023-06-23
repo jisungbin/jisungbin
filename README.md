@@ -5,8 +5,8 @@
 ### Maintaining Projects
 
 - [TodayDoneDone/donedone-android](https://github.com/TodayDoneDone/donedone-android) *(project leader)*
-- [duckie-team/quack-quack-android](https://github.com/duckie-team/quack-quack-android) *(ui kit engineering)*
-- [Wedemy/eggeum-android](https://github.com/Wedemy/eggeum-android)
+- [duckie-team/quack-quack-android](https://github.com/duckie-team/quack-quack-android) *(design system engineering)*
+- [Wedemy/eggeum-android](https://github.com/Wedemy/eggeum-android) *(android dev leader)*
 
 ### Skills
 
