@@ -2,11 +2,7 @@
 
 <a href="https://github.com/jisungbin"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=jisungbin&hide=contribs&show_icons=true&include_all_commits=true&count_private=true"/></a>
 
-### Maintaining Projects
-
-- [TodayDoneDone/donedone-android](https://github.com/TodayDoneDone/donedone-android) *(project leader)*
-- [duckie-team/quack-quack-android](https://github.com/duckie-team/quack-quack-android) *(design system engineering)*
-- [Wedemy/eggeum-android](https://github.com/Wedemy/eggeum-android) *(android dev leader)*
+## 2024 SBLDC는 4월 13일에 주최됩니다. 잠실에서 만나요!
 
 ### Skills
 
