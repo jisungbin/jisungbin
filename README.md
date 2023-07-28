@@ -7,7 +7,8 @@
 ### Skills
 
 - Android
-- Kotlin, Java, TypeScript
+- GitHub Actions
+- Kotlin, Java, Swift, TypeScript
 - Gradle Plugin API
 - Kotlin Symbol Processing API
 - Kotlin Compiler Plugin API
