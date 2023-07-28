@@ -17,5 +17,5 @@
 ### Interesting
 
 - Kotlin Multiplatform
-- Jetpack Compose Multiplatform
+- Compose Multiplatform
 - Programming Language Compiler
