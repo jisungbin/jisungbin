@@ -2,7 +2,7 @@
 
 <a href="https://github.com/jisungbin"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=jisungbin&hide=contribs&show_icons=true&include_all_commits=true&count_private=true"/></a>
 
-## 2024 SBLDC는 4월 13일에 진행됩니다. 잠실에서 만나요!
+## 2024 SBLDC는 4월 20일에 진행됩니다. 잠실에서 만나요!
 
 ### Skills
 
