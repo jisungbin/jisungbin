@@ -1,4 +1,4 @@
-# [👋](https://github.com/jisungbin/fashion-guide) Hi!
+# 👋 Hi!
 
 ### Skills
 
