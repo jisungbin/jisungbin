@@ -1,19 +1,6 @@
-# 👋 Hi!
+### I'm interested in...
 
-### Skills
-
-- Android
-- GitHub Actions
-- Kotlin, Java, Swift, TypeScript
-- Gradle Plugin API
-- Kotlin Symbol Processing API
-- Kotlin Compiler Plugin API
-- Jetpack Compose Runtime API
-- Android Studio Lint API
-
-### Interesting
-
+- Gradle Plugin
+- Kotlin Compiler Plugin
+- Figma Plugin (with Kotlin/JS)
 - Kotlin Multiplatform
-- Compose Multiplatform
-- Programming Language Compiler
-- Algorithm
