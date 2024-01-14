@@ -1,7 +1,1 @@
-### I'm interested in...
-
-- Gradle Plugin
-- Kotlin Compiler Plugin
-- Compose Runtime (androidx, jetbrains)
-- Kotlin Multiplatform
-- Experience Engineering
+I'm Kotlin Engineer. I mainly develop Kotlin compiler plugins.
