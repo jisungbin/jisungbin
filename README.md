@@ -1,3 +1,8 @@
-I'm Kotlin Engineer. I mostly work on uncommon developments like the Kotlin compiler plugin, Gradle plugin, Figma plugin, and Android Lint.
+### I'm interested in...
 
-I also develop GitHub Actions as needed, which I do using TypeScript.
+- Gradle Plugin
+- Kotlin Compiler Plugin
+- Compose Runtime
+- Kotlin Multiplatform
+- Experience Engineering
+- UX Writing
