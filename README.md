@@ -8,5 +8,6 @@
 - Ktlint Custom Rule
 - Experience Engineering
 - UX Writing
+- Public speaking
 
 And... I'm an Android developer.
