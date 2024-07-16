@@ -7,6 +7,7 @@ Experience Engineers for us. I love development that creates references.
 - Gradle Plugin
 - Dokka Plugin
 - Kotlin Compiler Plugin
+- Kotlin Symbol Processing
 - Compose Runtime
 - Android Lint
 - Ktlint Custom Rule
