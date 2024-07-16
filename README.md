@@ -4,13 +4,17 @@ Experience Engineers for us. I love development that creates references.
 
 ### I'm interested in...
 
+- Kotlin AA (Analysis API)
+  - Kotlin Symbol Processing
+- Kotlin IR
+  - Kotlin Compiler Plugin
+  - Jetpack Compose Compiler
+- AST/PSI
+  - Android Lint
+  - Ktlint Custom Rule
 - Gradle Plugin
-- Dokka Plugin
-- Kotlin Compiler Plugin
-- Kotlin Symbol Processing
+- Dokka Plugin (with Kotlin AA)
 - Compose Runtime
-- Android Lint
-- Ktlint Custom Rule
 - Experience Engineering
 - UX Writing
 - Public Speaking
