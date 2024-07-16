@@ -1,3 +1,7 @@
+## Ji Sungbin
+
+Experience Engineers for us. I love development that creates references.
+
 ### I'm interested in...
 
 - Gradle Plugin
@@ -9,5 +13,3 @@
 - Experience Engineering
 - UX Writing
 - Public Speaking
-
-And... I'm an Android developer.
