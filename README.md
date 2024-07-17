@@ -10,7 +10,7 @@ Experience Engineers for us. I love development that creates references.
   - Kotlin Compiler Plugin
   - Jetpack Compose Compiler
 - AST/PSI
-  - Android Lint
+  - Android Lint (with Kotlin AA)
   - Ktlint Custom Rule
 - Gradle Plugin
 - Dokka Plugin (with Kotlin AA)
