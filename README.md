@@ -15,6 +15,7 @@ Experience Engineers for us. I love development that creates references.
 - Gradle Plugin
 - Dokka Plugin (with Kotlin AA)
 - Compose Runtime
+- Bit Masking (New!)
 - Experience Engineering
 - UX Writing
 - Public Speaking
