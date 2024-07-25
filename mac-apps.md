@@ -1,7 +1,7 @@
 ## 맥 필수 앱 - 성빈 에디션
 
-- Arc
 - [AppCleaner](https://freemacsoft.net/appcleaner/)
+- Arc
 - Bruno
 - Clipy
 - DeepL
