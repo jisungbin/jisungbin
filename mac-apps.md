@@ -3,7 +3,7 @@
 - [AppCleaner](https://freemacsoft.net/appcleaner/)
 - Arc
 - Bruno
-- Clipy
+- [Clipy](https://github.com/Clipy/Clipy)
 - DeepL
 - [DevCleaner](https://apps.apple.com/kr/app/devcleaner-for-xcode/id1388020431?mt=12)
 - Firefox
