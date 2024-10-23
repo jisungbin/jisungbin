@@ -2,6 +2,8 @@
 
 Experience Engineers for us. I love development that creates references.
 
+I'm currently working as an Android developer.
+
 ### I'm interested in...
 
 - Kotlin AA (Analysis API)
