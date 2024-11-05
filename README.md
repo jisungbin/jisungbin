@@ -12,11 +12,11 @@ I'm currently working as an Android engineer.
   - Kotlin Compiler Plugin
   - Jetpack Compose Compiler
 - AST/PSI
-  - Android Lint (with Kotlin AA)
+  - Android Lint
   - Ktlint Custom Rule
 - IntelliJ IDEA Plugin
 - Gradle Plugin
-- Dokka Plugin (with Kotlin AA)
+- Dokka Plugin
 - Compose Runtime
 - Bit Masking
 - Experience Engineering
