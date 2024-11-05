@@ -2,7 +2,7 @@
 
 Experience Engineers for us. I love development that creates references.
 
-I'm currently working as an Android developer.
+I'm currently working as an Android engineer.
 
 ### I'm interested in...
 
@@ -14,6 +14,7 @@ I'm currently working as an Android developer.
 - AST/PSI
   - Android Lint (with Kotlin AA)
   - Ktlint Custom Rule
+- IntelliJ IDEA Plugin
 - Gradle Plugin
 - Dokka Plugin (with Kotlin AA)
 - Compose Runtime
