@@ -9,7 +9,6 @@
 - Firefox
 - Itsycal
 - JetBrains Toolbox
-- [JsonViewer](https://jsonviewer.app/)
 - [Jukebox](https://github.com/Jaysce/Jukebox)
 - [Plain Text Editor](https://apps.apple.com/kr/app/plain-text-editor/id1572202501?mt=12)
 - [RunCat](https://apps.apple.com/kr/app/runcat/id1429033973?mt=12)
