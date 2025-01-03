@@ -17,10 +17,11 @@
 - [Typora](https://typora.io)
 - [Ghostty](https://ghostty.org)
 - [Unicorn](https://apps.apple.com/kr/app/unicorn-https/id1475628500?mt=12)
+- [Figma](https://www.figma.com/downloads/)
 
 ---
 
-### 개발용
+### 기타
 
 - [Homebrew](https://brew.sh/ko/)
 - [D2Coding](https://github.com/naver/d2codingfont)
