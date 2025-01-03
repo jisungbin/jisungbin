@@ -36,3 +36,17 @@
 - [Homebrew](https://brew.sh/ko/)
 - [neofetch](https://github.com/dylanaraps/neofetch)
 - ADB 환경 변수 등록
+
+### 터미널 구성
+
+#### .zshrc
+
+```bash
+PROMPT='%n@%m %1~ %# '
+```
+
+#### 적용
+
+```bash
+source ~/.zshrc
+```
