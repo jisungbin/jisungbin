@@ -16,3 +16,9 @@
 - [Switcher](https://github.com/tkgka/Switcher)
 - [Typora](https://typora.io)
 - [Ghostty](https://ghostty.org)
+
+---
+
+#### 개발용
+
+- [Homebrew](https://brew.sh/ko/)
