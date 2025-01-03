@@ -17,6 +17,7 @@
 - [Typora](https://typora.io)
 - [Gureum](https://github.com/gureum/gureum/)
 - [Ghostty](https://ghostty.org)
+- [Git](https://git-scm.com/downloads/mac)
 - [Unicorn](https://apps.apple.com/kr/app/unicorn-https/id1475628500?mt=12)
 - [Figma](https://www.figma.com/downloads/)
 
