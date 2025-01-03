@@ -30,5 +30,6 @@
 - [D2Coding](https://github.com/naver/d2codingfont)
 - [Pretendard](https://github.com/orioncactus/pretendard)
 - [Homebrew](https://brew.sh/ko/)
+- [neofetch](https://github.com/dylanaraps/neofetch)
 - ADB 및 XCode 잊지 않기
 - [카카오톡](https://apps.apple.com/kr/app/kakaotalk/id869223134?mt=12), [디스코드](https://discord.com/download), [텔레그램](https://desktop.telegram.org/?setln=ko)
