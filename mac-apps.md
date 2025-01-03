@@ -7,6 +7,7 @@
 - [DeepL](https://www.deepl.com/ko/macos-app)
 - [DevCleaner](https://apps.apple.com/kr/app/devcleaner-for-xcode/id1388020431?mt=12)
 - [Firefox](https://www.mozilla.org/ko/firefox/new/)
+- [Ice](https://icemenubar.app/)
 - [Itsycal](https://www.mowglii.com/itsycal/)
 - [JetBrains Toolbox](https://www.jetbrains.com/ko-kr/toolbox-app/)
 - [Jukebox](https://www.jaysce.dev/projects/jukebox)
