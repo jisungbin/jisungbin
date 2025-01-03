@@ -28,3 +28,4 @@
 - [D2Coding](https://github.com/naver/d2codingfont)
 - [Pretendard](https://github.com/orioncactus/pretendard)
 - [Homebrew](https://brew.sh/ko/)
+- ADB 및 XCode 잊지 않기
