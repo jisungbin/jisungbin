@@ -37,16 +37,11 @@
 - [neofetch](https://github.com/dylanaraps/neofetch)
 - ADB 환경 변수 등록
 
-### 터미널 구성
-
-#### .zshrc
+### 터미널
 
 ```bash
+# .zshrc
 PROMPT='%n@%m %1~ %# '
-```
 
-#### 적용
-
-```bash
 source ~/.zshrc
 ```
