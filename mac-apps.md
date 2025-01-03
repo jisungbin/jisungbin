@@ -7,6 +7,7 @@
 - [Chrome](https://www.google.co.kr/chrome)
 - [DeepL](https://www.deepl.com/ko/macos-app)
 - [DevCleaner](https://apps.apple.com/kr/app/devcleaner-for-xcode/id1388020431?mt=12)
+- [Discord](https://discord.com/download)
 - [Firefox](https://www.mozilla.org/ko/firefox/new/)
 - [Ice](https://icemenubar.app/)
 - [Itsycal](https://www.mowglii.com/itsycal/)
@@ -16,12 +17,15 @@
 - [RunCat](https://apps.apple.com/kr/app/runcat/id1429033973?mt=12)
 - [Spectacle](https://spectacle.softonic.kr/mac)
 - [Switcher](https://github.com/tkgka/Switcher)
+- [Telegram](https://desktop.telegram.org/?setln=ko)
 - [Typora](https://typora.io)
+- [KakaoTalk](https://apps.apple.com/kr/app/kakaotalk/id869223134?mt=12)
 - [Gureum](https://github.com/gureum/gureum/)
 - [Ghostty](https://ghostty.org)
 - [Git](https://git-scm.com/downloads/mac)
 - [Unicorn](https://apps.apple.com/kr/app/unicorn-https/id1475628500?mt=12)
 - [Figma](https://www.figma.com/downloads/)
+- [XCode]()
 
 ---
 
@@ -31,5 +35,4 @@
 - [Pretendard](https://github.com/orioncactus/pretendard)
 - [Homebrew](https://brew.sh/ko/)
 - [neofetch](https://github.com/dylanaraps/neofetch)
-- ADB 및 XCode 잊지 않기
-- [카카오톡](https://apps.apple.com/kr/app/kakaotalk/id869223134?mt=12), [디스코드](https://discord.com/download), [텔레그램](https://desktop.telegram.org/?setln=ko)
+- ADB 환경 변수 등록
