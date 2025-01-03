@@ -34,7 +34,7 @@
 - [Pretendard](https://github.com/orioncactus/pretendard)
 - [Homebrew](https://brew.sh/ko/)
 - [neofetch](https://github.com/dylanaraps/neofetch)
-- ADB 환경 변수 등록
+- [ADB 환경 변수 등록](https://linitial.tistory.com/22)
 
 ### 터미널
 
