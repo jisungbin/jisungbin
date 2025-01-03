@@ -15,6 +15,7 @@
 - [Spectacle](https://spectacle.softonic.kr/mac)
 - [Switcher](https://github.com/tkgka/Switcher)
 - [Typora](https://typora.io)
+- [Gureum](https://github.com/gureum/gureum/)
 - [Ghostty](https://ghostty.org)
 - [Unicorn](https://apps.apple.com/kr/app/unicorn-https/id1475628500?mt=12)
 - [Figma](https://www.figma.com/downloads/)
@@ -23,6 +24,6 @@
 
 ### 기타
 
-- [Homebrew](https://brew.sh/ko/)
 - [D2Coding](https://github.com/naver/d2codingfont)
 - [Pretendard](https://github.com/orioncactus/pretendard)
+- [Homebrew](https://brew.sh/ko/)
