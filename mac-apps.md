@@ -16,9 +16,10 @@
 - [Switcher](https://github.com/tkgka/Switcher)
 - [Typora](https://typora.io)
 - [Ghostty](https://ghostty.org)
+- [Unicorn](https://apps.apple.com/kr/app/unicorn-https/id1475628500?mt=12)
 
 ---
 
-#### 개발용
+### 개발용
 
 - [Homebrew](https://brew.sh/ko/)
