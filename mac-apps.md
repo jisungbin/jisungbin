@@ -15,4 +15,4 @@
 - [Spectacle](https://spectacle.softonic.kr/mac)
 - [Switcher](https://github.com/tkgka/Switcher)
 - [Typora](https://typora.io)
-- Warp
+- [Ghostty](https://ghostty.org)
