@@ -23,7 +23,6 @@
 - [Wrap](https://www.warp.dev/)
 - [Gureum](https://github.com/gureum/gureum/)
 - [Git](https://git-scm.com/downloads/mac)
-- [Unicorn](https://apps.apple.com/kr/app/unicorn-https/id1475628500?mt=12)
 - [Figma](https://www.figma.com/downloads/)
 - [XCode](https://apps.apple.com/kr/app/xcode/id497799835?mt=12)
 
