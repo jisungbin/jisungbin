@@ -4,6 +4,7 @@
 - [Arc](https://arc.net)
 - [Bruno](https://www.usebruno.com)
 - [Clipy](https://clipy-app.com)
+- [Chrome](https://www.google.co.kr/chrome)
 - [DeepL](https://www.deepl.com/ko/macos-app)
 - [DevCleaner](https://apps.apple.com/kr/app/devcleaner-for-xcode/id1388020431?mt=12)
 - [Firefox](https://www.mozilla.org/ko/firefox/new/)
