@@ -23,3 +23,5 @@
 ### 개발용
 
 - [Homebrew](https://brew.sh/ko/)
+- [D2Coding](https://github.com/naver/d2codingfont)
+- [Pretendard](https://github.com/orioncactus/pretendard)
