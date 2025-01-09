@@ -45,3 +45,10 @@ PROMPT='%n@%m %1~ %# '
 
 source ~/.zshrc
 ```
+
+### git
+
+```
+git config --global user.name "jisungbin"
+git config --global user.email ji@sungb.in
+```
