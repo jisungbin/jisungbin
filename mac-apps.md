@@ -13,6 +13,7 @@
 - [Itsycal](https://www.mowglii.com/itsycal/)
 - [JetBrains Toolbox](https://www.jetbrains.com/ko-kr/toolbox-app/)
 - [Jukebox](https://www.jaysce.dev/projects/jukebox)
+- [Notion](https://www.notion.com/download)
 - [Plain Text Editor](https://apps.apple.com/kr/app/plain-text-editor/id1572202501?mt=12)
 - [RunCat](https://apps.apple.com/kr/app/runcat/id1429033973?mt=12)
 - [Spectacle](https://spectacle.softonic.kr/mac)
