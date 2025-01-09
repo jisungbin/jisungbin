@@ -17,6 +17,7 @@
 - [RunCat](https://apps.apple.com/kr/app/runcat/id1429033973?mt=12)
 - [Spectacle](https://spectacle.softonic.kr/mac)
 - [Switcher](https://github.com/tkgka/Switcher)
+- [System Color Picker](https://apps.apple.com/kr/app/system-color-picker/id1545870783?mt=12)
 - [Telegram](https://desktop.telegram.org/?setln=ko)
 - [Typora](https://typora.io)
 - [KakaoTalk](https://apps.apple.com/kr/app/kakaotalk/id869223134?mt=12)
