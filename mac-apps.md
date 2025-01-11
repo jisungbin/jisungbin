@@ -3,6 +3,7 @@
 - [AppCleaner](https://freemacsoft.net/appcleaner/)
 - [Arc](https://arc.net)
 - [Bruno](https://www.usebruno.com)
+- [ChatGPT](https://openai.com/chatgpt/download/)
 - [Clipy](https://clipy-app.com)
 - [Chrome](https://www.google.co.kr/chrome)
 - [DeepL](https://www.deepl.com/ko/macos-app)
