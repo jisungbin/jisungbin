@@ -6,6 +6,7 @@ I'm currently working as an Android engineer.
 
 ### I'm interested in...
 
+- <a href="https://github.com/gleam-lang/gleam"><img src="https://github.com/gleam-lang/gleam/blob/main/images/lucy.png?raw=true" width="2%"><b> Gleam</b></img></a>
 - Kotlin AA (Analysis API)
   - Kotlin Symbol Processing
 - Kotlin IR/FIR
