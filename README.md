@@ -22,4 +22,4 @@ I'm currently working as an Android engineer.
 - Bit Masking
 - Experience Engineering
 - UX Writing
-- Public Speaking at My Conference
+- Public Speaking
