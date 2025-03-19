@@ -24,3 +24,4 @@ I'm currently working as an Android engineer.
 - Experience Engineering
 - UX Writing
 - Public Speaking
+- *Korean Grammar*
