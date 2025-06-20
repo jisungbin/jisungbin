@@ -27,8 +27,7 @@ I'm currently working as an Android engineer.
 
 ### And...
 
-<div>
-  <img src="https://github.com/user-attachments/assets/2b3d35c7-949d-48fe-acbe-ce85c804a5e6" width="150" align="right" />
-  <image src="https://static.wikia.nocookie.net/disney/images/b/b3/Forky_-_TS4R.png/revision/latest?cb=20201110040316" width="150" align="right" />
-  <p>I love <a href="https://disney.fandom.com/wiki/Forky">Forky</a> and Ghost! 🤍</p>
-</div>
+<img src="https://github.com/user-attachments/assets/2b3d35c7-949d-48fe-acbe-ce85c804a5e6" width="150" align="right" />
+<image src="https://static.wikia.nocookie.net/disney/images/b/b3/Forky_-_TS4R.png/revision/latest?cb=20201110040316" width="150" align="right" />
+
+I love [Forky](https://disney.fandom.com/wiki/Forky) and Ghost! 🤍
