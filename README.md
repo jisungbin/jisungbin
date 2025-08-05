@@ -7,6 +7,8 @@ I'm currently working as an Android engineer.
 ### I'm interested in...
 
 - <a href="https://gleam.run/"><img src="https://github.com/gleam-lang/gleam/blob/main/images/lucy.png?raw=true" width="15"><b> Gleam</b></img></a>
+- [**Bazel**](https://bazel.build/)
+- [**Groovy**](https://groovy-lang.org/)
 - Kotlin AA (Analysis API)
   - Kotlin Symbol Processing
 - Kotlin IR/FIR
