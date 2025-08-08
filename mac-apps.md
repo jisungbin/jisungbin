@@ -54,4 +54,5 @@ source ~/.zshrc
 ```
 git config --global user.name "jisungbin"
 git config --global user.email ji@sungb.in
+git config --global init.defaultBranch main
 ```
