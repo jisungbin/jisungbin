@@ -42,11 +42,9 @@
 
 ### 터미널
 
-```bash
-# .zshrc
-PROMPT='%n@%m %1~ %# '
-
-source ~/.zshrc
+```
+defaults write com.apple.Finder AppleShowAllFiles YES
+killall Finder
 ```
 
 ### git
