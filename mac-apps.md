@@ -47,6 +47,8 @@ defaults write com.apple.Finder AppleShowAllFiles YES
 killall Finder
 ```
 
+- [터미널 호스트명 숨기기](https://chatgpt.com/share/6895929c-ba60-800f-aeae-4e82099a93e5)
+
 ### git
 
 ```
