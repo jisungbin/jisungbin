@@ -40,21 +40,20 @@
 - [neofetch](https://github.com/dylanaraps/neofetch)
 - [ADB 환경 변수 등록](https://linitial.tistory.com/22)
 
-### 터미널
+### CLI
 
 ```
 defaults write com.apple.Finder AppleShowAllFiles YES
 killall Finder
 
-touch .hushlogin
-```
-
-- [@호스트명 숨기기](https://chatgpt.com/share/6895929c-ba60-800f-aeae-4e82099a93e5)
-
-### git
-
-```
 git config --global user.name "jisungbin"
 git config --global user.email ji@sungb.in
 git config --global init.defaultBranch main
+
+touch .hushlogin
+
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.3/install.sh | bash
+nvm install node
 ```
+
+- [터미널 @호스트명 숨기기](https://chatgpt.com/share/6895929c-ba60-800f-aeae-4e82099a93e5)
