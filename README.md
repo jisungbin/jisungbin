@@ -13,14 +13,14 @@ I'm currently working as an Android platform engineer.
   - Kotlin Symbol Processing
 - Kotlin IR/FIR
   - Kotlin Compiler Plugin
-  - Compose Compiler
+  - Jetpack Compose Compiler
 - AST/PSI
   - Android Lint
   - Ktlint Custom Rule
 - IntelliJ IDEA Plugin
 - Gradle Plugin
 - Dokka Plugin
-- Compose Runtime
+- Jetpack Compose Runtime
 - Bit Masking
 - Experience Engineering
 - UX Writing
