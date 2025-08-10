@@ -2,7 +2,7 @@
 
 Experience Engineers for us. I love development that creates references.
 
-I'm currently working as an Android engineer.
+I'm currently working as an Android platform engineer.
 
 ### I'm interested in...
 
