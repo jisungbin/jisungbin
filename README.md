@@ -13,7 +13,7 @@ I'm currently working as an Android platform engineer.
   - Kotlin Symbol Processing
 - Kotlin IR/FIR
   - Kotlin Compiler Plugin
-  - Jetpack Compose Compiler
+  - Compose Compiler
 - AST/PSI
   - Android Lint
   - Ktlint Custom Rule
