@@ -1,0 +1,646 @@
+{
+  "aiAssistantIds": [
+    "paraphrase",
+    "paragraph-summarizer-expert",
+    "plain-english",
+    "twitter",
+    "tech",
+    "reddit",
+    "paper",
+    "news",
+    "music",
+    "medical",
+    "legal",
+    "github",
+    "game",
+    "ecommerce",
+    "financial",
+    "fiction",
+    "ao3",
+    "ebook",
+    "design",
+    "bilingual-mix",
+    "web3"
+  ],
+  "beta": true,
+  "customAiAssistants": [],
+  "debug": true,
+  "downloadAppClosed": true,
+  "enableInputTranslation": false,
+  "enableInputTranslationWithoutTriggerKey": false,
+  "generalRule": {
+    "aiWriting.add": {
+      "enable": false
+    },
+    "enableSiteAutoTranslate": false,
+    "imageRule.add": {
+      "enableMangaFloatBall": false,
+      "enableMouseHover": false
+    },
+    "isTranslateTitle": false,
+    "lineBreakMaxTextCount": 0,
+    "preTranslateLimiter.add": {
+      "side.enableTranslate": false
+    },
+    "subtitleRule.add": {
+      "preTranslation": true,
+      "youtubeAutoEnableSubtitle": false
+    }
+  },
+  "isChangedAlwaysTranslatedUrls": false,
+  "localUpdatedAt": "2025-09-18T08:28:23.192Z",
+  "modifiedBySystem": true,
+  "notificationShowTimes": {
+    "new-guide": "1757658759387"
+  },
+  "pcFloatBall": {
+    "afterInstalledAt": "2023-10-28",
+    "blockUrls": [
+      "*immersivetranslate.com/preview",
+      "*.immersivetranslate.com/download-subtitle*",
+      "dash.immersivetranslate.com/*"
+    ],
+    "clickType": "translate",
+    "defaultShowGuideNums": 4,
+    "enable": false,
+    "enablePinSidePanel": true,
+    "enableSidePanel": true,
+    "fixedPosition": "right",
+    "guideArrowPermanentUrls": [
+      "https://*.immersivetranslate.com/*/intro/step-1",
+      "https://*.immersivetranslate.com/*/tutorial/step-2",
+      "https://*.immersivetranslate.com/*/new-guide/step-3"
+    ],
+    "guideBlockUrls": [
+      "https://immersivetranslate.com/accounts/login*",
+      "https://immersivetranslate.cn/accounts/login*",
+      "https://immersivetranslate.com/profile/",
+      "https://onboarding.immersivetranslate.com*",
+      "https://*.immersivetranslate.com/*/intro/tutorial/step-1*",
+      "https://*.immersivetranslate.com/*/new-guide/step-1*",
+      "https://*.immersivetranslate.com/*/new-guide/step-2*"
+    ],
+    "guideContentBlockUrls": [
+      "https://*.immersivetranslate.com/*/tutorial/*",
+      "https://*.immersivetranslate.com/*/intro/*",
+      "https://*.immersivetranslate.com/*/init/*",
+      "https://*.immersivetranslate.com/*/new-guide/*"
+    ],
+    "isPc": true,
+    "transparency": 30,
+    "upgradeShowLimit": 20,
+    "upgradeVisible": true
+  },
+  "pcFloatBallMainBtnTooltipShownCount": 6,
+  "sameLangCheck": false,
+  "translationMode": "dual",
+  "translationService": "google",
+  "translationServiceChangedbyUserAt": "2025-09-13T13:12:27.915Z",
+  "translationServices": {
+    "claude-max": {
+      "visible": false
+    },
+    "claude-pro": {
+      "visible": false
+    },
+    "deepl-pro": {
+      "visible": false
+    },
+    "deepseek-pro": {
+      "visible": false
+    },
+    "gemini-max": {
+      "visible": false
+    },
+    "gemini-pro": {
+      "visible": false
+    },
+    "openai-max": {
+      "visible": false
+    },
+    "openai-pro": {
+      "visible": false
+    },
+    "qwen-mt-pro": {
+      "visible": false
+    },
+    "zhipu-air-pro": {
+      "visible": false
+    },
+    "zhipu-pro": {
+      "visible": false
+    }
+  },
+  "translationUrlPattern": {
+    "excludeMatches": [],
+    "matches": [
+      "twitter.com",
+      "x.com",
+      "www.reddit.com",
+      "www.kadaza.com",
+      "en.wikipedia.org",
+      "*.medium.com",
+      "news.ycombinator.com"
+    ]
+  },
+  "updatedAt": "2025-09-18T08:28:23.192Z",
+  "userTranslationServices": {
+    "translationService": "google-free"
+  },
+  "terms": {
+    "version": 1,
+    "exportedAt": "2025-09-29T22:04:21.959Z",
+    "data": [
+      {
+        "id": "default",
+        "name": "기본 약관",
+        "author": "self",
+        "description": "공통 용어가 포함된 기본 공통 용어",
+        "matches": [
+          "*"
+        ],
+        "glossaries": [
+          {
+            "k": "LLM",
+            "v": ""
+          },
+          {
+            "k": "LLMs",
+            "v": ""
+          }
+        ],
+        "order": 0,
+        "active": true
+      },
+      {
+        "id": "game",
+        "name": "Game",
+        "author": "immersive",
+        "description": "游戏术语库，包含游戏类型、玩法、设备等相关术语的中文翻译。",
+        "glossaries": [
+          {
+            "k": "Steam",
+            "tl": "auto",
+            "v": "Steam"
+          },
+          {
+            "k": "Epic Games",
+            "tl": "auto",
+            "v": "Epic Games"
+          },
+          {
+            "k": "PlayStation",
+            "tl": "auto",
+            "v": "PlayStation"
+          },
+          {
+            "k": "Xbox",
+            "tl": "auto",
+            "v": "Xbox"
+          },
+          {
+            "k": "Switch",
+            "tl": "auto",
+            "v": "Switch"
+          }
+        ],
+        "langs": [
+          "auto",
+          "zh-CN",
+          "zh-TW"
+        ],
+        "active": true,
+        "i18ns": {
+          "ar": {
+            "description": "لعبة مصطلحات تحتوي على ترجمات عربية للمصطلحات المتعلقة بأنواع الألعاب وطريقة اللعب والأجهزة.",
+            "name": "اللعبة"
+          },
+          "de": {
+            "description": "Spiel glossary, containing German translations of related terms such as game types, gameplay, and devices.",
+            "name": "Spiel"
+          },
+          "en": {
+            "description": "Game glossary, containing Chinese translations of related terms such as game types, gameplay, and devices.",
+            "name": "Game"
+          },
+          "es": {
+            "description": "Glosario de Juego, que contiene traducciones al español de términos relacionados como tipos de juego, jugabilidad y dispositivos.",
+            "name": "Juego"
+          },
+          "fa": {
+            "description": "واژه‌نامه بازی، حاوی ترجمه‌های فارسی اصطلاحات مرتبط مانند انواع بازی، گیم‌پلی و دستگاه‌ها.",
+            "name": "بازی"
+          },
+          "fr": {
+            "description": "Glossaire de jeu, contenant des traductions en français de termes connexes tels que les types de jeu, le gameplay et les appareils.",
+            "name": "Jeu"
+          },
+          "he": {
+            "description": "מילון מונחי משחק, המכיל תרגומים לעברית של מונחים קשורים כגון סוגי משחקים, משחקיות ומכשירים.",
+            "name": "משחק"
+          },
+          "hi": {
+            "description": "खेल शब्दावली, जिसमें खेल के प्रकार, गेमप्ले और उपकरणों जैसे संबंधित शब्दों का हिंदी अनुवाद शामिल है।",
+            "name": "खेल"
+          },
+          "hu": {
+            "description": "Játék terminológiai tár, amely a játéktípusokkal, játékmenettel és eszközökkel kapcsolatos magyar fordításokat tartalmazza.",
+            "name": "Játék"
+          },
+          "it": {
+            "description": "Glossario di Gioco, contenente traduzioni in italiano di termini correlati come tipi di gioco, gameplay e dispositivi.",
+            "name": "Gioco"
+          },
+          "ja": {
+            "description": "ゲーム術語庫，包含ゲームタイプ、プレイ方法、デバイス等相關術語の日本語翻訳。",
+            "name": "ゲーム"
+          },
+          "ko": {
+            "description": "게임 용어집, 게임 유형, 게임 플레이, 장치 등 관련 용어의 한국어 번역 포함.",
+            "name": "게임"
+          },
+          "pt-BR": {
+            "description": "Glossário de Jogos, contendo traduções em português brasileiro de termos relacionados, como tipos de jogo, jogabilidade e dispositivos.",
+            "name": "Jogo"
+          },
+          "pt-PT": {
+            "description": "Glossário de Jogo, contendo traduções em português de termos relacionados, como tipos de jogo, jogabilidade e dispositivos.",
+            "name": "Jogo"
+          },
+          "ru": {
+            "description": "Игровой глоссарий, содержащий переводы на русский язык связанных терминов, таких как типы игр, игровой процесс и устройства.",
+            "name": "Игра"
+          },
+          "tr": {
+            "description": "Oyun terimleri sözlüğü, oyun türleri, oynanış ve cihazlar gibi ilgili terimlerin Türkçe çevirilerini içerir.",
+            "name": "Oyun"
+          },
+          "zh-CN": {
+            "description": "游戏术语库，包含游戏类型、玩法、设备等相关术语的中文翻译。",
+            "name": "游戏"
+          },
+          "zh-TW": {
+            "description": "遊戲術語庫，包含遊戲類型、玩法、設備等相關術語的中文翻譯。",
+            "name": "遊戲"
+          }
+        }
+      },
+      {
+        "id": "programming",
+        "name": "Programming",
+        "author": "immersive",
+        "description": "Glossary for programming languages, software development concepts, and related IT terminology.",
+        "glossaries": [
+          {
+            "k": "Python",
+            "tl": "auto",
+            "v": ""
+          },
+          {
+            "k": "JavaScript",
+            "tl": "auto",
+            "v": ""
+          },
+          {
+            "k": "TypeScript",
+            "tl": "auto",
+            "v": ""
+          },
+          {
+            "k": "Java",
+            "tl": "auto",
+            "v": ""
+          },
+          {
+            "k": "Rust",
+            "tl": "auto",
+            "v": ""
+          },
+          {
+            "k": "Swift",
+            "tl": "auto",
+            "v": ""
+          },
+          {
+            "k": "Kotlin",
+            "tl": "auto",
+            "v": ""
+          },
+          {
+            "k": "Ruby",
+            "tl": "auto",
+            "v": ""
+          },
+          {
+            "k": "PHP",
+            "tl": "auto",
+            "v": ""
+          },
+          {
+            "k": "MATLAB",
+            "tl": "auto",
+            "v": ""
+          },
+          {
+            "k": "SQL",
+            "tl": "auto",
+            "v": ""
+          },
+          {
+            "k": "HTML",
+            "tl": "auto",
+            "v": ""
+          },
+          {
+            "k": "CSS",
+            "tl": "auto",
+            "v": ""
+          },
+          {
+            "k": "Shell",
+            "tl": "auto",
+            "v": ""
+          },
+          {
+            "k": "stub",
+            "tl": "auto",
+            "v": ""
+          }
+        ],
+        "langs": [
+          "auto",
+          "zh-CN",
+          "zh-TW"
+        ],
+        "active": true,
+        "i18ns": {
+          "ar": {
+            "description": "مسرد للغات البرمجة ومفاهيم تطوير البرامج ومصطلحات تكنولوجيا المعلومات ذات الصلة.",
+            "name": "برمجة"
+          },
+          "de": {
+            "description": "Glossar für Programmiersprachen, Softwareentwicklungskonzepte und verwandte IT-Terminologie.",
+            "name": "Programmierung"
+          },
+          "en": {
+            "description": "Glossary for programming languages, software development concepts, and related IT terminology.",
+            "name": "Programming"
+          },
+          "es": {
+            "description": "Glosario de lenguajes de programación, conceptos de desarrollo de software y terminología informática relacionada.",
+            "name": "Programación"
+          },
+          "fa": {
+            "description": "واژه‌نامه زبان‌های برنامه‌نویسی، مفاهیم توسعه نرم‌افزار و اصطلاحات مرتبط با فناوری اطلاعات.",
+            "name": "برنامه‌نویسی"
+          },
+          "fr": {
+            "description": "Glossaire des langages de programmation, des concepts de développement logiciel et de la terminologie informatique associée.",
+            "name": "Programmation"
+          },
+          "he": {
+            "description": "מילון מונחים לשפות תכנות, מושגי פיתוח תוכנה וטרמינולוגיה קשורה של IT.",
+            "name": "תכנות"
+          },
+          "hi": {
+            "description": "प्रोग्रामिंग भाषाओं, सॉफ्टवेयर विकास अवधारणाओं और संबंधित आईटी शब्दावली के लिए शब्दावली।",
+            "name": "प्रोग्रामिंग"
+          },
+          "hu": {
+            "description": "Szószedet programozási nyelvekhez, szoftverfejlesztési koncepciókhoz és kapcsolódó informatikai terminológiához.",
+            "name": "Programozás"
+          },
+          "it": {
+            "description": "Glossario per linguaggi di programmazione, concetti di sviluppo software e terminologia informatica correlata.",
+            "name": "Programmazione"
+          },
+          "ja": {
+            "description": "プログラミング言語、ソフトウェア開発コンセプト、および関連するIT用語の用語集。",
+            "name": "プログラミング"
+          },
+          "ko": {
+            "description": "프로그래밍 언어, 소프트웨어 개발 개념 및 관련 IT 용어집.",
+            "name": "프로그래밍"
+          },
+          "pt-BR": {
+            "description": "Glossário para linguagens de programação, conceitos de desenvolvimento de software e terminologia de TI relacionada.",
+            "name": "Programação"
+          },
+          "pt-PT": {
+            "description": "Glossário para linguagens de programação, conceitos de desenvolvimento de software e terminologia de TI relacionada.",
+            "name": "Programação"
+          },
+          "ru": {
+            "description": "Глоссарий языков программирования, концепций разработки программного обеспечения и связанной ИТ-терминологии.",
+            "name": "Программирование"
+          },
+          "tr": {
+            "description": "Programlama dilleri, yazılım geliştirme kavramları ve ilgili BT terminolojisi sözlüğü.",
+            "name": "Programlama"
+          },
+          "zh-CN": {
+            "description": "包含编程语言、软件开发概念及相关 IT 术语的词汇表。",
+            "name": "编程"
+          },
+          "zh-TW": {
+            "description": "包含程式語言、軟體開發概念及相關 IT 術語的詞彙表。",
+            "name": "程式設計"
+          }
+        }
+      },
+      {
+        "id": "tech",
+        "name": "Technology Expert",
+        "author": "immersive",
+        "description": "Focuses on general technology concepts, including hardware, AI models, and major tech companies.",
+        "glossaries": [
+          {
+            "k": "GPT",
+            "tl": "auto",
+            "v": ""
+          },
+          {
+            "k": "Claude",
+            "tl": "auto",
+            "v": ""
+          },
+          {
+            "k": "Gemini",
+            "tl": "auto",
+            "v": ""
+          },
+          {
+            "k": "LLaMA",
+            "tl": "auto",
+            "v": ""
+          },
+          {
+            "k": "Mistral",
+            "tl": "auto",
+            "v": ""
+          },
+          {
+            "k": "OpenAI",
+            "tl": "auto",
+            "v": ""
+          },
+          {
+            "k": "Anthropic",
+            "tl": "auto",
+            "v": ""
+          },
+          {
+            "k": "Google",
+            "tl": "auto",
+            "v": ""
+          },
+          {
+            "k": "DeepMind",
+            "tl": "auto",
+            "v": ""
+          },
+          {
+            "k": "Meta",
+            "tl": "auto",
+            "v": ""
+          },
+          {
+            "k": "Microsoft",
+            "tl": "auto",
+            "v": ""
+          },
+          {
+            "k": "Amazon",
+            "tl": "auto",
+            "v": ""
+          },
+          {
+            "k": "Apple",
+            "tl": "auto",
+            "v": ""
+          },
+          {
+            "k": "NVIDIA",
+            "tl": "auto",
+            "v": ""
+          },
+          {
+            "k": "Intel",
+            "tl": "auto",
+            "v": ""
+          },
+          {
+            "k": "AMD",
+            "tl": "auto",
+            "v": ""
+          },
+          {
+            "k": "IBM",
+            "tl": "auto",
+            "v": ""
+          },
+          {
+            "k": "Oracle",
+            "tl": "auto",
+            "v": ""
+          },
+          {
+            "k": "Salesforce",
+            "tl": "auto",
+            "v": ""
+          },
+          {
+            "k": "Adobe",
+            "tl": "auto",
+            "v": ""
+          },
+          {
+            "k": "Autodesk",
+            "tl": "auto",
+            "v": ""
+          }
+        ],
+        "langs": [
+          "auto",
+          "zh-CN",
+          "zh-TW"
+        ],
+        "active": true,
+        "i18ns": {
+          "ar": {
+            "description": "يركز على مفاهيم التكنولوجيا العامة، بما في ذلك الأجهزة ونماذج الذكاء الاصطناعي وشركات التكنولوجيا الكبرى.",
+            "name": "خبير تكنولوجيا"
+          },
+          "de": {
+            "description": "Konzentriert sich auf allgemeine Technologiekonzepte, einschließlich Hardware, KI-Modelle und große Technologieunternehmen.",
+            "name": "Technologie-Experte"
+          },
+          "en": {
+            "description": "Focuses on general technology concepts, including hardware, AI models, and major tech companies.",
+            "name": "Technology Expert"
+          },
+          "es": {
+            "description": "Se centra en conceptos generales de tecnología, incluyendo hardware, modelos de IA y las principales empresas tecnológicas.",
+            "name": "Experto en Tecnología"
+          },
+          "fa": {
+            "description": "بر مفاهیم کلی فناوری، از جمله سخت‌افزار، مدل‌های هوش مصنوعی و شرکت‌های بزرگ فناوری تمرکز دارد.",
+            "name": "کارشناس فناوری"
+          },
+          "fr": {
+            "description": "Se concentre sur les concepts technologiques généraux, y compris le matériel, les modèles d'IA et les grandes entreprises technologiques.",
+            "name": "Expert en technologie"
+          },
+          "he": {
+            "description": "מתמקד במושגי טכנולוגיה כלליים, כולל חומרה, מודלי בינה מלאכותית וחברות טכנולוגיה גדולות.",
+            "name": "מומחה טכנולוגיה"
+          },
+          "hi": {
+            "description": "सामान्य प्रौद्योगिकी अवधारणाओं पर ध्यान केंद्रित करता है, जिसमें हार्डवेयर, एआई मॉडल और प्रमुख तकनीकी कंपनियां शामिल हैं।",
+            "name": "प्रौद्योगिकी विशेषज्ञ"
+          },
+          "hu": {
+            "description": "Általános technológiai koncepciókra összpontosít, beleértve a hardvert, az MI-modelleket és a nagy technológiai vállalatokat.",
+            "name": "Technológiai szakértő"
+          },
+          "it": {
+            "description": "Si concentra sui concetti tecnologici generali, tra cui hardware, modelli di IA e le principali aziende tecnologiche.",
+            "name": "Esperto di Tecnologia"
+          },
+          "ja": {
+            "description": "ハードウェア、AIモデル、主要なテクノロジー企業を含む一般的な技術コンセプトに焦点を当てています。",
+            "name": "テクノロジーエキスパート"
+          },
+          "ko": {
+            "description": "하드웨어, AI 모델 및 주요 기술 회사를 포함한 일반적인 기술 개념에 중점을 둡니다.",
+            "name": "기술 전문가"
+          },
+          "pt-BR": {
+            "description": "Concentra-se em conceitos gerais de tecnologia, incluindo hardware, modelos de IA e grandes empresas de tecnologia.",
+            "name": "Especialista em Tecnologia"
+          },
+          "pt-PT": {
+            "description": "Concentra-se em conceitos gerais de tecnologia, incluindo hardware, modelos de IA e grandes empresas de tecnologia.",
+            "name": "Especialista em Tecnologia"
+          },
+          "ru": {
+            "description": "Фокусируется на общих технологических концепциях, включая оборудование, модели ИИ и крупные технологические компании.",
+            "name": "Эксперт по технологиям"
+          },
+          "tr": {
+            "description": "Donanım, yapay zeka modelleri ve büyük teknoloji şirketleri dahil olmak üzere genel teknoloji kavramlarına odaklanır.",
+            "name": "Teknoloji Uzmanı"
+          },
+          "zh-CN": {
+            "description": "专注于通用科技概念，涵盖硬件、AI 模型和主要科技公司。",
+            "name": "科技"
+          },
+          "zh-TW": {
+            "description": "專注於通用科技概念，涵蓋硬體、AI 模型和主要科技公司。",
+            "name": "科技"
+          }
+        }
+      }
+    ]
+  }
+}
