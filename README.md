@@ -1,33 +1,13 @@
-## Ji Sungbin
-
-Experience Engineers for us. I love development that creates references.
-
-I'm currently working as an Android platform engineer.
-
 ### I'm interested in...
 
 - <a href="https://gleam.run/"><img src="https://github.com/gleam-lang/gleam/blob/main/images/lucy.png?raw=true" width="15"><b> Gleam</b></img></a>
-- [**Bazel**](https://bazel.build/)
-- [**Groovy**](https://groovy-lang.org/)
-- [**Lua**](https://www.lua.org/)
-- Kotlin AA (Analysis API)
-  - Kotlin Symbol Processing
-- Kotlin IR/FIR
-  - Kotlin Compiler Plugin
-  - Compose Compiler
-- AST/PSI
-  - Android Lint
-  - Ktlint Custom Rule
-- IntelliJ IDEA Plugin
-- Gradle Plugin
-- Dokka Plugin
-- Jetpack Compose Runtime
-- Bit Masking
+- Software Algorithm
 - Experience Engineering
 - UX Writing
 - Public Speaking
+- *English*
 - *Korean Grammar*
 
-### And...
+---
 
 I love [Forky](https://disney.fandom.com/wiki/Forky) and [BENEE](https://www.beneemusic.com/)! 🤍
