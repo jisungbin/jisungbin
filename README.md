@@ -1,6 +1,7 @@
 ### I'm interested in...
 
 - <a href="https://gleam.run/"><img src="https://github.com/gleam-lang/gleam/blob/main/images/lucy.png?raw=true" width="15"><b> Gleam</b></img></a>
+- [Bazel](https://bazel.build/)
 - Software Algorithm
 - Experience Engineering
 - UX Writing
