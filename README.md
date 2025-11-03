@@ -9,6 +9,8 @@
 - *English*
 - *Korean Grammar*
 
+<sub>I'm not fluent in English, but it feels easier than my native Korean. Life’s unfair like that. 🥹</sub>
+
 ---
 
 I love [Forky](https://disney.fandom.com/wiki/Forky) and [BENEE](https://www.beneemusic.com/)! 🤍
