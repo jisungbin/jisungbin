@@ -7,7 +7,7 @@
 - UX Writing
 - Public Speaking
 - *English*
-- *Korean Grammar*
+- *Korean Grammar & Pronunciation*
 
 <sub>I'm not fluent in English, but it feels easier than my native Korean. Life’s unfair like that. 🥹</sub>
 
