@@ -29,6 +29,7 @@
 - [Fork](https://git-fork.com/)
 - [Figma](https://www.figma.com/downloads/)
 - [XCode](https://apps.apple.com/kr/app/xcode/id497799835?mt=12)
+- [TinyStopwatch](https://apps.apple.com/kr/app/tinystopwatch/id1447754003?mt=12TinyStopwatch) (발표 연습할 때 도움 많이 됨)
 
 ---
 
