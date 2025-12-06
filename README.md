@@ -12,4 +12,4 @@
 
 ---
 
-I love [Forky](https://disney.fandom.com/wiki/Forky) and [BENEE](https://www.beneemusic.com/)! 🤍
+I'm a fan of [Forky](https://disney.fandom.com/wiki/Forky) and [BENEE](https://www.beneemusic.com/)! 🤍
