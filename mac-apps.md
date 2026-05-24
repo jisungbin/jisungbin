@@ -2,6 +2,7 @@
 
 - [ChatGPT](https://openai.com/chatgpt/download/)
 - [Claude](https://claude.ai/download)
+- [Claude Code](https://code.claude.com/docs/en/quickstart)
 - [Clipy](https://clipy-app.com)
 - [Chrome](https://www.google.co.kr/chrome)
 - [Discord](https://discord.com/download)
