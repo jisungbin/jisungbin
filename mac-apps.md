@@ -11,7 +11,6 @@
 - [Jukebox](https://github.com/jisungbin/JukeboxKt)
 - [Notion](https://www.notion.com/download)
 - [Plain Text Editor](https://apps.apple.com/kr/app/plain-text-editor/id1572202501)
-- [Spectacle](https://spectacle.softonic.kr/mac)
 - [Switcher](https://github.com/tkgka/Switcher)
 - [ColorSlurp](https://apps.apple.com/kr/app/colorslurp/id1287239339)
 - [Typora](https://typora.io)
