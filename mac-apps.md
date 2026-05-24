@@ -8,6 +8,7 @@
 - [Discord](https://discord.com/download)
 - [Figma](https://www.figma.com/downloads/)
 - [Firefox](https://www.mozilla.org/ko/firefox/new/)
+- [f.lux](https://justgetflux.com/)
 - [Fork](https://git-fork.com/)
 - [Git](https://git-scm.com/downloads/mac)
 - [Hot](https://github.com/macmade/Hot)
@@ -49,6 +50,7 @@ git config --global init.defaultBranch main
 touch .hushlogin
 
 echo "alias c='claude --dangerously-skip-permissions'" >> ~/.zshrc
+echo 'export HOMEBREW_NO_ENV_HINTS=1' >> ~/.zshrc
 
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.3/install.sh | bash
 nvm install node
