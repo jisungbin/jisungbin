@@ -1,6 +1,5 @@
 ## 맥 필수 앱 - 성빈 에디션
 
-- [AppCleaner](https://freemacsoft.net/appcleaner/)
 - [ChatGPT](https://openai.com/chatgpt/download/)
 - [Claude](https://claude.ai/download)
 - [Clipy](https://clipy-app.com)
