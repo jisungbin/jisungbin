@@ -31,7 +31,7 @@
 - [Pretendard](https://github.com/orioncactus/pretendard)
 - [Homebrew](https://brew.sh/ko/)
 - [Mole](https://github.com/tw93/mole)
-- [neofetch](https://github.com/dylanaraps/neofetch)
+- [fastfetch](https://github.com/fastfetch-cli/fastfetch)
 - [ADB 환경 변수 등록](https://linitial.tistory.com/22)
 - [터미널 @호스트명 숨기기](https://chatgpt.com/share/6895929c-ba60-800f-aeae-4e82099a93e5)
 
@@ -45,6 +45,31 @@ git config --global init.defaultBranch main
 
 touch .hushlogin
 
+echo "alias c='claude --dangerously-skip-permissions'" >> ~/.zshrc
+
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.3/install.sh | bash
 nvm install node
+```
+
+---
+
+### 메모
+
+위 앱들 중 다수는 [Homebrew](https://brew.sh)로 한 번에 설치 가능.
+
+```
+# GUI 앱
+brew install --cask chatgpt claude clipy firefox itsycal jetbrains-toolbox notion typora warp fork figma
+
+# CLI 도구 / 폰트
+brew install git fastfetch
+brew install --cask font-d2coding font-pretendard
+
+# Mac App Store (mas 7.x는 sudo 필요)
+brew install mas
+sudo mas install 1572202501  # Plain Text Editor
+sudo mas install 1287239339  # ColorSlurp
+sudo mas install 869223134   # KakaoTalk
+sudo mas install 497799835   # Xcode
+sudo mas install 1447754003  # TinyStopwatch
 ```
