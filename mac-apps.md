@@ -18,6 +18,7 @@
 - [Maccy](https://maccy.app)
 - [Notion](https://www.notion.com/download)
 - [Plain Text Editor](https://apps.apple.com/kr/app/plain-text-editor/id1572202501)
+- [Pulse](https://apps.apple.com/kr/app/pulse-network-logger/id6661031747)
 - [Rectangle](https://rectangleapp.com/)
 - [Switcher](https://github.com/tkgka/Switcher)
 - [TinyStopwatch](https://apps.apple.com/kr/app/tinystopwatch/id1447754003) (발표 연습할 때 도움 많이 됨)
@@ -70,6 +71,7 @@ brew install --cask font-d2coding font-pretendard
 # Mac App Store (mas 7.x는 sudo 필요)
 brew install mas
 sudo mas install 1572202501  # Plain Text Editor
+sudo mas install 6661031747  # Pulse
 sudo mas install 1287239339  # ColorSlurp
 sudo mas install 869223134   # KakaoTalk
 sudo mas install 497799835   # Xcode
