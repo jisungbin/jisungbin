@@ -31,6 +31,7 @@
 - [D2Coding](https://github.com/naver/d2codingfont)
 - [Pretendard](https://github.com/orioncactus/pretendard)
 - [Homebrew](https://brew.sh/ko/)
+- [Mole](https://github.com/tw93/mole)
 - [neofetch](https://github.com/dylanaraps/neofetch)
 - [ADB 환경 변수 등록](https://linitial.tistory.com/22)
 - [터미널 @호스트명 숨기기](https://chatgpt.com/share/6895929c-ba60-800f-aeae-4e82099a93e5)
