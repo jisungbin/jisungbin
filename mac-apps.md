@@ -7,6 +7,7 @@
 - [Chrome](https://www.google.co.kr/chrome)
 - [Discord](https://discord.com/download)
 - [Firefox](https://www.mozilla.org/ko/firefox/new/)
+- [Hot](https://github.com/macmade/Hot)
 - [Itsycal](https://www.mowglii.com/itsycal/)
 - [JetBrains Toolbox](https://www.jetbrains.com/ko-kr/toolbox-app/)
 - [Jukebox](https://github.com/jisungbin/JukeboxKt)
@@ -60,7 +61,7 @@ nvm install node
 
 ```
 # GUI 앱
-brew install --cask chatgpt claude clipy firefox itsycal jetbrains-toolbox notion typora warp fork figma
+brew install --cask chatgpt claude clipy firefox hot itsycal jetbrains-toolbox notion typora warp fork figma
 
 # CLI 도구 / 폰트
 brew install git fastfetch
