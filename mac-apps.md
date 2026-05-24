@@ -4,7 +4,6 @@
 - [Chrome](https://www.google.co.kr/chrome)
 - [Claude](https://claude.ai/download)
 - [Claude Code](https://code.claude.com/docs/en/quickstart)
-- [Clipy](https://clipy-app.com)
 - [ColorSlurp](https://apps.apple.com/kr/app/colorslurp/id1287239339)
 - [Discord](https://discord.com/download)
 - [Figma](https://www.figma.com/downloads/)
@@ -16,6 +15,7 @@
 - [JetBrains Toolbox](https://www.jetbrains.com/ko-kr/toolbox-app/)
 - [Jukebox](https://github.com/jisungbin/JukeboxKt)
 - [KakaoTalk](https://apps.apple.com/kr/app/kakaotalk/id869223134)
+- [Maccy](https://maccy.app)
 - [Notion](https://www.notion.com/download)
 - [Plain Text Editor](https://apps.apple.com/kr/app/plain-text-editor/id1572202501)
 - [Rectangle](https://rectangleapp.com/)
@@ -61,7 +61,7 @@ nvm install node
 
 ```
 # GUI 앱
-brew install --cask chatgpt claude clipy firefox hot itsycal jetbrains-toolbox notion typora warp fork figma
+brew install --cask chatgpt claude firefox hot itsycal jetbrains-toolbox maccy notion typora warp fork figma
 
 # CLI 도구 / 폰트
 brew install git fastfetch
