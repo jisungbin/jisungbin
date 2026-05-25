@@ -11,6 +11,7 @@
 - [f.lux](https://justgetflux.com/)
 - [Fork](https://git-fork.com/)
 - [Git](https://git-scm.com/downloads/mac)
+- [Gemini](https://gemini.google/kr/mac/?hl=ko)
 - [Hot](https://github.com/macmade/Hot)
 - [Itsycal](https://www.mowglii.com/itsycal/)
 - [JetBrains Toolbox](https://www.jetbrains.com/ko-kr/toolbox-app/)
