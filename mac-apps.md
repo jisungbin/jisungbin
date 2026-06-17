@@ -69,6 +69,7 @@ brew install --cask chatgpt claude firefox hot itsycal jetbrains-toolbox maccy n
 
 # CLI 도구 / 폰트
 brew install git fastfetch
+brew install pnpm
 brew install --cask font-d2coding font-pretendard
 
 # Mac App Store (mas 7.x는 sudo 필요)
