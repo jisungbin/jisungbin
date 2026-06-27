@@ -62,14 +62,14 @@
   "restore_on_startup": "none", // reopenLastProject=false
 
   // ── 들여쓰기 / 줄 길이 (IntelliJ codeStyles/Default.xml) ──
-  "tab_size": 4, // 전역 기본 (IntelliJ 글로벌 indent 블록 없음 → 기본 4)
+  "tab_size": 2, // 기본 들여쓰기 (전역)
   "hard_tabs": false,
   "languages": {
-    // Kotlin RIGHT_MARGIN=500, JSON=250 → 사실상 "길이로 자동 줄바꿈 안 함" 의도
-    "Kotlin": { "tab_size": 2, "preferred_line_length": 500 },
-    "JSON": { "tab_size": 2, "preferred_line_length": 250 },
-    "JSONC": { "tab_size": 2, "preferred_line_length": 250 },
-    "Markdown": { "tab_size": 2 }
+    // 들여쓰기는 전역 tab_size 2 적용. 여기선 줄 길이만 override
+    // (Kotlin RIGHT_MARGIN=500 / JSON=250 → 사실상 길이 기준 자동 줄바꿈 안 함).
+    "Kotlin": { "preferred_line_length": 500 },
+    "JSON": { "preferred_line_length": 250 },
+    "JSONC": { "preferred_line_length": 250 }
   },
 
   // ── Extension 자동 설치 (Zed 실행 시 자동 설치) ──
