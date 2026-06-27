@@ -1,0 +1,90 @@
+// Zed settings
+//
+// For information on how to configure Zed, see the Zed
+// documentation: https://zed.dev/docs/configuring-zed
+//
+// To see all of Zed's default settings without changing your
+// custom settings, run `zed: open default settings` from the
+// command palette (cmd-shift-p / ctrl-shift-p)
+{
+  "toolbar": {
+    "agent_review": false,
+    "selections_menu": true,
+    "quick_actions": false,
+    "breadcrumbs": false
+  },
+  "gutter": {
+    "line_numbers": true
+  },
+  "drag_and_drop_selection": {
+    "enabled": false
+  },
+  "zoomed_padding": true,
+  "tab_bar": {
+    "show_tab_bar_buttons": true
+  },
+  "mouse_wheel_zoom": true,
+  "proxy": "",
+  "disable_ai": true,
+  "telemetry": {
+    "diagnostics": true,
+    "metrics": false,
+    "anthropic_retention": false
+  },
+  "session": {
+    "trust_all_worktrees": true
+  },
+  "base_keymap": "JetBrains",
+
+  // ── 폰트 (IntelliJ editor-font.xml 에서 포팅) ──
+  "buffer_font_family": "D2Coding ligature",
+  "buffer_font_size": 20, // IntelliJ 원본 25 → 20 으로 조정
+  "buffer_font_features": { "calt": true }, // USE_LIGATURES=true → 리거처 on
+  "buffer_font_fallbacks": ["JetBrains Mono"], // SECONDARY_FONT_FAMILY
+  "buffer_line_height": { "custom": 1.5 }, // IntelliJ line-spacing 1.5
+  "ui_font_size": 16,
+
+  // ── 테마 (IntelliJ 활성 = "Dark"(parent Darcula) 다크 → One Dark 근사) ──
+  // 원래 Ayu 였음. 1:1 Darcula 룩을 원하면 cmd-shift-p → "zed: extensions" 에서
+  // "Darcula" 설치 후 "dark" 를 "Darcula" 로 바꾸세요.
+  "theme": {
+    "mode": "system",
+    "light": "One Light",
+    "dark": "One Dark"
+  },
+
+  // ── 에디터 동작 (IntelliJ editor.xml / ide.general.xml) ──
+  "ensure_final_newline_on_save": true, // IS_ENSURE_NEWLINE_AT_EOF
+  "show_wrap_guides": false, // IS_RIGHT_MARGIN_SHOWN=false
+  "indent_guides": { "enabled": false }, // IS_INDENT_GUIDES_SHOWN=false
+  "hover_popover_enabled": true, // AUTO_POPUP_JAVADOC_INFO=true
+  "autosave": { "after_delay": { "milliseconds": 1000 } }, // autoSaveIfInactive=true
+  "restore_on_startup": "none", // reopenLastProject=false
+
+  // ── 들여쓰기 / 줄 길이 (IntelliJ codeStyles/Default.xml) ──
+  "tab_size": 4, // 전역 기본 (IntelliJ 글로벌 indent 블록 없음 → 기본 4)
+  "hard_tabs": false,
+  "languages": {
+    // Kotlin RIGHT_MARGIN=500, JSON=250 → 사실상 "길이로 자동 줄바꿈 안 함" 의도
+    "Kotlin": { "tab_size": 2, "preferred_line_length": 500 },
+    "JSON": { "tab_size": 2, "preferred_line_length": 250 },
+    "JSONC": { "tab_size": 2, "preferred_line_length": 250 },
+    "Markdown": { "tab_size": 2 }
+  },
+
+  // ── Extension 자동 설치 (Zed 실행 시 자동 설치) ──
+  // shell(bash)·python 은 Zed 코어 내장이라 제외 — 넣어도 매칭 extension 없음.
+  "auto_install_extensions": {
+    "kotlin": true,
+    "java": true,
+    "swift": true,
+    "gleam": true,
+    "toml": true,
+    "git-firefly": true,
+    "proto": true
+  },
+
+  // GitHub Copilot: IntelliJ 에서 쓰셨다면 Zed 내장 지원 — cmd-shift-p → "copilot: sign in".
+  // edit prediction 을 Copilot 으로 바꾸려면(기본은 Zed Zeta):
+  //   "features": { "edit_prediction_provider": "copilot" }
+}

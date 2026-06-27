@@ -1,0 +1,25 @@
+// Zed keymap — IntelliJ "macOS copy"(활성 키맵) 커스텀에서 포팅.
+// base_keymap "JetBrains" 위에 보강하는 바인딩만 둡니다.
+//
+// 의도적으로 제외한 것:
+//  - cmd-b (ToggleBookmark): Zed 에 네이티브 북마크 기능이 없음(서드파티 extension 필요) — 매핑 대상 action 부재
+//  - Android 핫스왑(ApplyChanges/CodeSwap)·Gradle(clean/rebuild)·Logcat: Zed 대응 기능 없음
+//  - Back(ctrl-alt-left): Default(Win) 키맵 출신 — base_keymap JetBrains 이 macOS 식으로 이미 제공
+[
+  {
+    "context": "Editor",
+    "bindings": {
+      "cmd-shift-6": "editor::Rename", // IntelliJ RenameElement (shift meta 6)
+      "alt-s": "editor::FindAllReferences", // IntelliJ FindUsages 커스텀 (alt s)
+      // IntelliJ EditorSelectWord(meta w) — Zed 기본 cmd-w(탭 닫기)를 override.
+      // 축소도 원하면: "cmd-shift-w": "editor::SelectSmallerSyntaxNode"
+      "cmd-w": "editor::SelectLargerSyntaxNode"
+    }
+  },
+  {
+    "context": "Pane",
+    "bindings": {
+      "cmd-shift-\\": "pane::SplitRight" // IntelliJ SplitVertically (shift meta \)
+    }
+  }
+]
