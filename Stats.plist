@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Battery_processes</key>
+	<integer>15</integer>
+	<key>Battery_state</key>
+	<false/>
+	<key>CPU_barChart_position</key>
+	<integer>4</integer>
+	<key>CPU_label_position</key>
+	<integer>1</integer>
+	<key>CPU_lineChart_position</key>
+	<integer>2</integer>
+	<key>CPU_mini_position</key>
+	<integer>0</integer>
+	<key>CPU_pieChart_position</key>
+	<integer>3</integer>
+	<key>CPU_processes</key>
+	<integer>15</integer>
+	<key>CPU_state</key>
+	<true/>
+	<key>CPU_tachometer_position</key>
+	<integer>5</integer>
+	<key>CPU_updateInterval</key>
+	<integer>2</integer>
+	<key>CPU_updateTopInterval</key>
+	<integer>2</integer>
+	<key>CPU_widget</key>
+	<string>mini</string>
+	<key>Disk_state</key>
+	<false/>
+	<key>GPU_barChart_position</key>
+	<integer>3</integer>
+	<key>GPU_gpu</key>
+	<string>automatic</string>
+	<key>GPU_label_position</key>
+	<integer>1</integer>
+	<key>GPU_lineChart_position</key>
+	<integer>2</integer>
+	<key>GPU_mini_position</key>
+	<integer>0</integer>
+	<key>GPU_state</key>
+	<true/>
+	<key>GPU_tachometer_position</key>
+	<integer>4</integer>
+	<key>GPU_updateInterval</key>
+	<integer>2</integer>
+	<key>GPU_widget</key>
+	<string>mini</string>
+	<key>LaunchAtLoginNext</key>
+	<true/>
+	<key>NSStatusItem Preferred Position CPU_mini</key>
+	<real>689</real>
+	<key>NSStatusItem Preferred Position GPU_mini</key>
+	<real>642</real>
+	<key>NSStatusItem Preferred Position RAM_mini</key>
+	<real>551</real>
+	<key>NSStatusItem Preferred Position Sensors_sensors</key>
+	<real>598</real>
+	<key>NSToolbar Configuration eu.exelban.Stats.Settings.Toolbar</key>
+	<dict>
+		<key>TB Display Mode</key>
+		<integer>1</integer>
+		<key>TB Icon Size Mode</key>
+		<integer>1</integer>
+		<key>TB Is Shown</key>
+		<true/>
+		<key>TB Size Mode</key>
+		<integer>1</integer>
+	</dict>
+	<key>NSWindow Frame eu.exelban.Stats.Settings.WindowFrame</key>
+	<string>307 63 852 787 0 0 1512 949 </string>
+	<key>Network_state</key>
+	<false/>
+	<key>RAM_combinedProcesses</key>
+	<true/>
+	<key>RAM_processes</key>
+	<integer>15</integer>
+	<key>RAM_updateInterval</key>
+	<integer>2</integer>
+	<key>RAM_updateTopInterval</key>
+	<integer>2</integer>
+	<key>Sensors_barChart_position</key>
+	<integer>3</integer>
+	<key>Sensors_fanControl</key>
+	<true/>
+	<key>Sensors_fanValue</key>
+	<string>percentage</string>
+	<key>Sensors_fansSync</key>
+	<true/>
+	<key>Sensors_label_position</key>
+	<integer>2</integer>
+	<key>Sensors_mini_position</key>
+	<integer>1</integer>
+	<key>Sensors_sensor</key>
+	<string>Hottest CPU</string>
+	<key>Sensors_stack_position</key>
+	<integer>0</integer>
+	<key>Sensors_state</key>
+	<true/>
+	<key>Sensors_unknown</key>
+	<false/>
+	<key>Sensors_updateInterval</key>
+	<integer>2</integer>
+	<key>Sensors_widget</key>
+	<string>sensors</string>
+	<key>fan_0_mode</key>
+	<integer>0</integer>
+	<key>fan_0_speed</key>
+	<integer>7826</integer>
+	<key>fan_1_mode</key>
+	<integer>0</integer>
+	<key>fan_1_speed</key>
+	<integer>7826</integer>
+	<key>remote_tokens_migrated_to_keychain</key>
+	<true/>
+	<key>runAtLoginInitialized</key>
+	<true/>
+	<key>sensor_Fastest fan</key>
+	<true/>
+	<key>sensor_Hottest CPU</key>
+	<true/>
+	<key>sensor_Hottest GPU</key>
+	<false/>
+	<key>setupProcess</key>
+	<true/>
+	<key>support_ts</key>
+	<integer>1780737446</integer>
+	<key>temperature_units</key>
+	<string>celsius</string>
+	<key>update-interval</key>
+	<string>Silent</string>
+	<key>updater_check_ts</key>
+	<integer>1783181994</integer>
+	<key>updater_install_ts</key>
+	<integer>1782803826</integer>
+	<key>version</key>
+	<string>3.0.5</string>
+</dict>
+</plist>
