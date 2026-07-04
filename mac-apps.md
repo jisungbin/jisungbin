@@ -25,7 +25,7 @@
 - [Switcher](https://github.com/tkgka/Switcher)
 - [TinyStopwatch](https://apps.apple.com/kr/app/tinystopwatch/id1447754003) (발표 연습할 때 도움 많이 됨)
 - [Typora](https://typora.io)
-- [Wrap](https://www.warp.dev/)
+- [Kitty](https://sw.kovidgoyal.net/kitty/)
 - [XCode](https://apps.apple.com/kr/app/xcode/id497799835)
 
 ---
@@ -65,17 +65,16 @@ nvm install node
 
 ```
 # GUI 앱
-brew install --cask chatgpt claude firefox hot itsycal jetbrains-toolbox maccy notion typora warp fork figma
+brew install --cask ....
 
 # CLI 도구 / 폰트
 brew install git fastfetch
 brew install pnpm
 brew install --cask font-d2coding font-pretendard
 
-# Mac App Store (mas 7.x는 sudo 필요)
+# Mac App Store
 brew install mas
 sudo mas install 1572202501  # Plain Text Editor
-sudo mas install 6661031747  # Pulse
 sudo mas install 1287239339  # ColorSlurp
 sudo mas install 869223134   # KakaoTalk
 sudo mas install 497799835   # Xcode
