@@ -20,6 +20,7 @@
 - [Notion](https://www.notion.com/download)
 - [Plain Text Editor](https://apps.apple.com/kr/app/plain-text-editor/id1572202501)
 - [Rectangle](https://rectangleapp.com/)
+- [RTK](https://github.com/rtk-ai/rtk)
 - [Stats](https://mac-stats.com/)
 - [Switcher](https://github.com/tkgka/Switcher)
 - [TinyStopwatch](https://apps.apple.com/kr/app/tinystopwatch/id1447754003) (발표 연습할 때 도움 많이 됨)
